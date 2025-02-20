@@ -1,0 +1,52 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+root: intro
+format: jb-book
+parts:
+- caption: Details
+  chapters:
+    - file: logistics
+    - title: Schedule
+      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=schedule
+    - title: Team
+      url: https://PACEHackWeek.github.io/pace-2024/index.html?jump_to=team
+    - file: CoC
+- caption: Preparation
+  chapters:
+    - file: preliminary/index
+    - file: preliminary/checklist
+    - file: preliminary/git
+- caption: Presentations
+  chapters:
+    - file: presentations/lectures
+    - file: presentations/tutorials
+      sections:
+        - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
+          title: CryoCloud Overview
+        - file: presentations/hackweek/earthdata_cloud_access
+          title: Earthdata Cloud
+        - file: presentations/hackweek/satdata_visualization
+          title: Data Visualization
+        - file: presentations/hackweek/satellite_insitu_matchups
+          title: In-situ Matchups
+        - file: presentations/hackweek/satellite_insitu_matchups_thomas
+          title: ThoMas
+        - url: https://docs.google.com/presentation/d/1ylRMdihGg7Fr9cjm1rjggU7Tcc4Zb8MsH0gH2R09RZk/present?usp=sharing
+          title: Code Collaboration
+        - file: presentations/hackweek/ocssw_processing
+          title: OCSSW Processing
+        - file: presentations/hackweek/dask_gridding
+          title: Compute with Dask
+        - file: presentations/hackweek/ml_cloud_mask
+          title: Machine Learning
+        - url: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
+          title: Reproducible Containers
+- caption: Projects
+  chapters:
+    - file: projects/index
+    - file: projects/list_of_projects
+- caption: Reference
+  chapters:
+    - file: reference/glossary
+    - file: reference/questions
+

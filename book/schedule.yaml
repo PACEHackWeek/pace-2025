@@ -1,0 +1,228 @@
+timezone: UTC -4 (Eastern Daylight Time)
+tabs:
+- title: Day 1
+  date: Sunday 04 August
+  contents:
+  - title: Breakfast
+    description: Breakfast @ True Grits
+    time: 7:30 - 8:30
+  - title: Warm-up
+    description: Welcome, Introductions, & Housekeeping
+    time: 8:30 - 9:00
+    leads:
+    - Anna Windle
+  - title: Science Lecture
+    description: PACE Mission Overview
+    time: 9:00 - 9:45
+    leads:
+    - Jeremy Werdell  
+  - title: Break
+    description: null
+    time: 9:45 - 10:00
+  - title: Coding Tutorial 1
+    description: Overview of CryoCloud JupyterHub 
+    time: 10:00 - 10:50
+    leads:
+    - Tasha Snow
+  - title: Coding Tutorial 2
+    description: Orientation to Earthdata Cloud Access
+    time: 11:00 - 11:50
+    leads:
+    - Anna Windle 
+  - title: Lunch
+    description: Lunch @ True Grits
+    time: 12:00 - 13:00
+  - title: Lecture
+    description: Best Practices for Collaborative Development
+    time: 13:00 - 13:20
+    leads:
+    - Kelsey Bisson
+  - title: Group Project Work
+    description: null
+    time: 13:20 - 14:45
+  - title: Break
+    description: null
+    time: 14:45 - 15:00
+  - title: Group Project Work
+    description: null
+    time: 15:00 - 17:00
+  - title: Dinner
+    description: Dinner @ True Grits
+    time: 17:00 - 18:00
+  - title: Evening Activity 
+    description: Bob Ross Paint Night 
+    time: 18:00 - 
+    leads:
+    - Carina Poulin
+- title: Day 2
+  date: Monday 05 August
+  contents:
+  - title: Breakfast
+    description: Breakfast @ True Grits
+    time: 7:30 - 8:30
+  - title: Warm-up
+    description: Announcements & Group Check-ins
+    time: 8:30 - 9:00
+  - title: Science Lecture
+    description: OCI Oceans
+    time: 9:00 - 9:45
+    leads:
+    - Ivona Cetinić 
+    - Amir Ibrahim 
+  - title: Break
+    description: null
+    time: 9:45 - 10:00
+  - title: Group Project Work
+    description: Null
+    time: 10:00 - 12:00
+  - title: Lunch
+    description: Lunch @ True Grits
+    time: 12:00 - 13:00
+  - title: Coding Tutorial 1
+    description: Satellite Data Visualization
+    time: 13:00 - 13:45
+    leads:
+    - Carina Poulin
+  - title: Coding Tutorial 2
+    description: Matchups of in-situ Data with Satellite Data
+    time: 14:00 - 14:45
+    leads:
+    - Anna Windle 
+    - James Allen 
+  - title: Break
+    description: null
+    time: 14:45 - 15:00
+  - title: Group Project Work
+    description: null
+    time: 15:00 - 17:00
+  - title: Dinner
+    description: Dinner @ True Grits
+    time: 17:00 - 18:00
+  - title: Evening Activity
+    description: Fireside Chat with NASA Program Managers  
+    time: 18:00 - 
+- title: Day 3
+  date: Tuesday 06 August
+  contents:
+  - title: Breakfast
+    description: Breakfast @ True Grits
+    time: 7:30 - 8:30
+  - title: Warm-up
+    description: Announcements & Group Check-ins
+    time: 8:30 - 9:00
+  - title: Science Lecture
+    description: OCI Atmospheres
+    time: 9:00 - 9:45
+    leads:
+    - Andy Sayer 
+    - Lorraine Remer 
+  - title: Break
+    description: null
+    time: 9:45 - 10:00
+  - title: Group Project Work
+    description: null
+    time: 10:00 - 12:00
+  - title: Lunch
+    description: Lunch @ True Grits
+    time: 12:00 - 13:00
+  - title: Coding Tutorial 1
+    description: Collaboration via Git and GitHub
+    time: 13:00 - 13:45
+    leads:
+    - Eli Holmes
+  - title: Coding Tutorial 2
+    description: Using the SeaDAS Command Line Tools (OCSSW)
+    time: 14:00 - 14:45
+    leads:
+    - Carina Poulin
+  - title: Break
+    description: null
+    time: 14:45 - 15:00
+  - title: Group Project Work
+    description: null
+    time: 15:00 - 17:00
+  - title: Dinner
+    description: Crab Feast Dinner @ Patapsco Valley State Park
+    time: 17:00 - 
+- title: Day 4
+  date: Wednesday 07 August
+  contents:
+  - title: Breakfast
+    description: Breakfast @ True Grits
+    time: 7:30 - 8:30
+  - title: Warm up
+    description: Announcements & Group Check-ins
+    time: 8:30 - 9:00
+  - title: Science Lecture
+    description: PACE Polarimetry
+    time: 9:00 - 9:45
+    leads:
+    - Kirk Knobelspiesse
+  - title: Break
+    description: null
+    time: 9:45 - 10:00
+  - title: Group Project Work
+    description: null
+    time: 10:00 - 12:00
+  - title: Lunch
+    description: Lunch @ True Grits
+    time: 12:00 - 13:00
+  - title: Coding Tutorial 1
+    description: Parallel and Larger-than-Memory Computing
+    time: 13:00 - 13:45
+    leads:
+    - Ian Carroll
+  - title: Coding Tutorial 2
+    description: Machine Learning with Satellite Data
+    time: 14:00 - 14:45
+    leads:
+    - Sean Foley  
+  - title: Break
+    description: null
+    time: 14:45 - 15:00
+  - title: Group Project Work
+    description: null
+    time: 15:00 - 17:00
+  - title: Dinner
+    description: Dinner @ True Grits
+    time: 17:00 - 18:00
+  - title: Evening Activity
+    description: PACE Nerd Night 
+    time: 18:00 - 
+- title: Day 5
+  date: Thursday 08 August
+  contents:
+  - title: Breakfast
+    description: Breakfast @ True Grits
+    time: 7:30 - 8:30
+  - title: Warm up
+    description: Announcements & Group Check-ins
+    time: 8:30 - 9:00
+  - title: Science Lecture
+    description: Earth System Modeling and Assimilation
+    time: 9:00 - 9:45
+    leads:
+    - Cecile Rousseaux
+  - title: Break
+    description: null
+    time: 9:45 - 10:00
+  - title: Group Project Work
+    description: null
+    time: 10:00 - 12:00
+  - title: Lunch
+    description: Lunch @ True Grits
+    time: 12:00 - 13:00
+  - title: Coding Tutorial 
+    description: Environments and Containers for Reusable Projects
+    time: 13:00 - 13:45
+    leads:
+    - Patrick Gray
+  - title: Project Presentations
+    description: null
+    time: 14:00 - 17:00
+  - title: Dinner
+    description: Dinner @ True Grits
+    time: 17:00 - 18:00
+  - title: Evening Activity
+    description: PACE Trivia
+    time: 18:00 - 
