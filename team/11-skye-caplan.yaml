@@ -1,0 +1,16 @@
+- title: Skye Caplan
+  avatar: https://raw.githubusercontent.com/PACEHackWeek/pace-2025/main/team/img/skye.png
+  role: Remote Sensing Scientist
+  organizations:
+    - name: NASA/GSFC 
+    - name: Science Systems and Applications, Inc (SSAI)
+      url: https://science.gsfc.nasa.gov/earth/oceanecology/bio/skyelar.a.caplan
+  bio:  Skye Caplan works on the Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) mission as a terrestrial scientist. She is responsible for applying PACE satellite data to land surface observation questions. 
+  expertise:
+    - remote sensing
+  social:
+    - icon: github
+      link: https://github.com/skyecaplan
+  user_groups:
+    - Hackweek Organizer
+

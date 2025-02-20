@@ -1,0 +1,16 @@
+- title: Morgaine McKibben
+  avatar: https://raw.githubusercontent.com/PACEHackWeek/pace-2025/main/team/img/morgaine.jpeg
+  role: Research Scientist
+  organizations:
+    - name: NASA/GSFC
+      url: https://science.gsfc.nasa.gov/sci/bio/morgaine.mckibben
+  bio: Morgaine has a background in coastal and estuarine biological oceanography with an emphasis on satellite oceanography, harmful algal bloom ecology, and water quality. Currently she works in the Ocean Ecology Lab at NASA Goddard Space Flight Center (GSFC) as the PACE Mission Applications Lead.
+  expertise:
+    - ocean color
+    - harmful algal blooms
+  social:
+    - icon: github
+      link: https://github.com/smmckibben
+  user_groups:
+    - Hackweek Organizer
+ 

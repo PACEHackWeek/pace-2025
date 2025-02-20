@@ -1,0 +1,16 @@
+- title: Riley Blocker
+  avatar: https://raw.githubusercontent.com/PACEHackWeek/pace-2025/main/team/img/riley.jpeg
+  role: Postdoctoral Fellow
+  organizations:
+    - name: NASA/GSFC 
+    - name: Science Systems and Applications, Inc (SSAI)
+      url: https://science.gsfc.nasa.gov/earth/oceanecology/bio/edward.r.blocker
+  bio:  Dr. E. Riley Blocker is a senior research scientist at SSAI working on-site as a post-doctoral scholar at NASA Goddard Space Flight Center’s Ocean Ecology Laboratory (OEL).
+  expertise:
+    - optical instrumentation
+  social:
+    - icon: github
+      link: https://github.com/e-rileyblocker
+  user_groups:
+    - Hackweek Organizer
+
