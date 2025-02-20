@@ -10,10 +10,10 @@ pushd ../team/ > /dev/null
 # Merge all individual files, excluding template and header files
 find . -type f -name '*.yaml' \
   ! -name team.yaml ! -name team_people.yaml \
-  ! -name template.yaml ! -name header.yaml | \
+  ! -name template.yaml ! -name header.yaml \
   ! -path './ignore/*' | \
   sort | xargs -I '{}' cat '{}' > team_people.yaml
-
+  
 # Indent to proper yaml
 sed -i.bkp -e 's/^/  /' team_people.yaml
 rm team_people.yaml.bkp
