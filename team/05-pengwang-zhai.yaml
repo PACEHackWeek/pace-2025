@@ -9,5 +9,8 @@
     - Radiative Transfer
     - Remote Sensing of Aerosols and Ocean Color
     - Polarimetry
+  social:
+    - icon: orcid
+      link: https://orcid.org/0000-0003-4695-5200
   user_groups:
     - Hackweek organizer

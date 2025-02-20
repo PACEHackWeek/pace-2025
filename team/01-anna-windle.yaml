@@ -13,6 +13,8 @@
   social:
     - icon: github
       link: https://github.com/aewindle110
+    - icon: orcid
+      link: https://orcid.org/0000-0002-4852-5848
   user_groups:
     - Lead Hackweek Organizer
     - Tutorial Lead

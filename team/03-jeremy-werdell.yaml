@@ -12,6 +12,8 @@
   social:
     - icon: github
       link: https://github.com/houghtah
+    - icon: orcid
+      link: https://orcid.org/0000-0002-3592-0152
   user_groups:
     - Lead Hackweek Organizer
     - Tutorial Lead

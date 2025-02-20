@@ -9,6 +9,8 @@
   social:
     - icon: github
       link: ' '
+    - icon: orcid
+      link: https://orcid.org/0000-0003-4230-3467
   user_groups:
     - Hackweek Organizer
     - Lecturer

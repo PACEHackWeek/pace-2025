@@ -14,6 +14,8 @@
   social:
     - icon: github
       link: https://github.com/patrickcgray
+    - icon: orcid
+      link: https://orcid.org/0000-0002-8997-5255
   user_groups:
     - Tutorial Lead
  

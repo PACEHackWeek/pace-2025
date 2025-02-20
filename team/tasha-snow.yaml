@@ -12,7 +12,8 @@
     - Cloud-computing
   social:
     - icon: github
-      icon_pack: fab
       link: https://github.com/tsnow03
+    - icon: orcid
+      link: https://orcid.org/0000-0001-5697-5470
   user_groups:
     - Tutorial Lead

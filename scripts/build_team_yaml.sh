@@ -11,6 +11,7 @@ pushd ../team/ > /dev/null
 find . -type f -name '*.yaml' \
   ! -name team.yaml ! -name team_people.yaml \
   ! -name template.yaml ! -name header.yaml | \
+  ! -path './ignore/*' | \
   sort | xargs -I '{}' cat '{}' > team_people.yaml
 
 # Indent to proper yaml
