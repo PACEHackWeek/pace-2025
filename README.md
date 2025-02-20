@@ -1,21 +1,18 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13983608.svg)](https://doi.org/10.5281/zenodo.13983608)
-
-
 # PACE Hackweek JupyterBook
 
-This the JupyterBook content for the PACE Hackweek 2024.
+This the JupyterBook content for the PACE Hackweek 2025.
 
 ![image](https://github.com/noaa-nwfsc/Hackweek-2024-book/assets/2545978/8f4eda29-eec2-4263-bc1f-600ef5567996)
 
 ## Users
 
-This repo is the source for our website: https://pacehackweek.github.io/pace-2024/. Go check it out!
+This repo is the source for our website: https://pacehackweek.github.io/pace-2025/. Go check it out!
 
 ## Developers
 
 ### New or updated tutorials
 
-1. Fork or clone the pace-2024, pace-2024-tutorials, oceandata-notebooks repos.
+1. Fork or clone the pace-2025, pace-2025-tutorials, oceandata-notebooks repos.
 1. When tutorials are ready to be moved into the Jupyter Book, source the function in `copy_tutorials.py` and then use it to create the unrendered (tutorial repo) and rendered notebooks (book).
 2. This will create a branch for you to work on.
 3. Switch to that branch and edit `book/_toc.yml` and `book/tutorials/index.md`. Commit those changes to the branch.
