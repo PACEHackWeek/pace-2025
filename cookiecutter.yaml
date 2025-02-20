@@ -3,34 +3,34 @@ name: PACE Hackweek
 favicon: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico
 apply:
   url: ''
-  title: Applications Closed
+  title: Applications Open April XX
 banner:
   description: ''
   start_date: 4 August
   end_date: 8 August
-  year: 2024
+  year: 2025
   location: UMBC, Baltimore, MD
   links:
   - url: intro.html
     title: Event Jupyter Book
     new_window: false
     style: btn-primary
-  - url: https://docs.google.com/forms/d/e/1FAIpQLSdgKaZEi8px6YHt2U2zUkAeExQ_-dGNNj4QFb7oDHXgxygieg/viewform?usp=sf_link
-    title: Feedback Survey
-    new_window: true
-    style: btn-success
-  - url: https://docs.google.com/forms/d/e/1FAIpQLScQGnGCyWBPncSfYnE0VPWwWWzZwiHZlCWubBjHWGmPzpc82w/viewform?usp=sf_link
-    title: Demographic Survey
-    new_window: true
-    style: btn-warning
+#  - url: https://docs.google.com/forms/d/e/1FAIpQLSdgKaZEi8px6YHt2U2zUkAeExQ_-dGNNj4QFb7oDHXgxygieg/viewform?usp=sf_link
+#    title: Feedback Survey
+#    new_window: true
+#    style: btn-success
+#  - url: https://docs.google.com/forms/d/e/1FAIpQLScQGnGCyWBPncSfYnE0VPWwWWzZwiHZlCWubBjHWGmPzpc82w/viewform?usp=sf_link
+#    title: Demographic Survey
+#    new_window: true
+#    style: btn-warning
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2024-08-04T08:30:00-07:00"
+event_countdown: "2025-08-04T08:30:00-07:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science. PACE Hackweek 2024 
-    will take place in August 2024 (in-person). Applications are closed.
+    gain hands-on experience with collaboration and team science. PACE Hackweek 2025 
+    will take place in August 2025 (in-person).
 team:
   !include team/team.yaml
 schedule:
