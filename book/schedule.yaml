@@ -20,15 +20,13 @@ tabs:
     description: null
     time: 9:45 - 10:00
   - title: Coding Tutorial 1
-#    description: Overview of CryoCloud JupyterHub 
+    description: Overview of CryoCloud JupyterHub 
     time: 10:00 - 10:50
-#    leads:
-#    - Tasha Snow
+    leads:
+    - Tasha Snow
   - title: Coding Tutorial 2
-#    description: Orientation to Earthdata Cloud Access
+    description: Orientation to Earthdata Cloud Access
     time: 11:00 - 11:50
-#    leads:
-#    - Anna Windle 
   - title: Lunch
     description: Lunch @ True Grits
     time: 12:00 - 13:00
@@ -153,6 +151,7 @@ tabs:
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
+    time: 9:00 - 9:45
   - title: Break
     description: null
     time: 9:45 - 10:00
