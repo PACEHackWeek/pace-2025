@@ -8,9 +8,9 @@
 
 ## Location
 
-* Lectures and tutorials will occur in the Interdisciplinary Life Sciences Building (ILSB) Rooms 116A and 237.
-* Doors open at 8:00 am each morning (Sunday-Thursday). We will start the morning
-  sessions at 8:30 am sharp.
+<!-- * Lectures and tutorials will occur in the Interdisciplinary Life Sciences Building (ILSB) Rooms 116A and 237. -->
+* Lectures and tutorials will occur in TBA
+* Doors open at 8:00 am each morning (Sunday-Thursday). We will start the morning sessions at 8:30 am sharp.
 * Due to space limitations, only registered hackweek participants will be allowed
   to attend the lectures, tutorials, and open working sessions.
 * Participants are expected to attend all scheduled activities. Contact
@@ -20,8 +20,8 @@
 
 * Dorms are all single rooms with a shared bathroom. 
 * Participants who opt to will be staying at Chesapeake Hall.
-* Dorm check-in will be from 9am to 5pm on Saturday, August 3rd.
-* Dorm check-out will be from 9am to 12pm on Friday, August 9th.
+* Dorm check-in will be from 9am to 5pm on Saturday, August 2nd.
+* Dorm check-out will be from 9am to 12pm on Friday, August 8th.
 * There is a 24 hour desk in the lobby of the dorm. If you are arriving after 5pm on Saturday, check in at the 24 hour desk. 
 
 ## Meals
