@@ -6,15 +6,15 @@ apply:
   title: Applications Open Feb 24, 2025
 banner:
   description: ''
-  start_date: 4 August
+  start_date: 3 August
   end_date: 7 August
   year: 2025
   location: UMBC, Baltimore, MD
   links:
-  - url: intro.html
-    title: Event Jupyter Book
-    new_window: false
-    style: btn-primary
+#  - url: intro.html
+#    title: Event Jupyter Book
+#    new_window: false
+#    style: btn-primary
 #  - url: https://docs.google.com/forms/d/e/1FAIpQLSdgKaZEi8px6YHt2U2zUkAeExQ_-dGNNj4QFb7oDHXgxygieg/viewform?usp=sf_link
 #    title: Feedback Survey
 #    new_window: true
@@ -31,6 +31,8 @@ about:
     welcoming spaces for participants to learn new things, build community and
     gain hands-on experience with collaboration and team science. PACE Hackweek 2025 
     will take place in August 2025 (in-person).</br></br>Applications open February 24, 2025 and close March 24, 2025.
+    See the [2024 PACE HackWeek](https://pacehackweek.github.io/pace-2024/) page for 
+    more information about the format of the PACE Hackweeks.
 team:
   !include team/team.yaml
 schedule:
