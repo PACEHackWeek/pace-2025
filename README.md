@@ -45,3 +45,5 @@ OR
 This is a clone of the eScience template repository designed to streamline creating two linked websites for a [UW eScience Hackweek](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html).
 
 Please see the [eScience repository template](https://github.com/uwhackweek/jupyterbook-template) for usage, contributors and citation information.
+
+Setting up the template: Read the instructions [here](https://github.com/uwhackweek/jupyterbook-template/blob/main/docs/), in particular you will need to [setup netlify](https://github.com/uwhackweek/jupyterbook-template/blob/main/docs/netlify-setup.md) for preview feature.
