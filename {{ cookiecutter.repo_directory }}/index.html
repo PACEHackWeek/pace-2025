@@ -38,7 +38,7 @@
                 <div class="site-logo">
                     <a class="scrollto" href="#hero-block">
                         <span class="logo-icon-text">
-                            PACE Hackweek
+                            PACE Data Hackweek
                         </span>
                     </a>
                 </div>
@@ -71,11 +71,13 @@
                                 About
                             </a>
                         </li>
+                        {%- if cookiecutter.schedule %}
                         <li class="nav-item">
                             <a class="nav-link scrollto" href="#schedule">
                                 Schedule
                             </a>
                         </li>
+                        {%- endif %}
                         <li class="nav-item">
                             <a class="nav-link scrollto" href="#team">
                                 Team
