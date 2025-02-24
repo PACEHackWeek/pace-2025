@@ -33,8 +33,8 @@ about:
     will take place in August 2025 (in-person).</br></br>Applications open February 24, 2025 and close March 24, 2025.
     See the <a href="https://pacehackweek.github.io/pace-2024/">2024 PACE HackWeek</a> page for 
     more information about the format of the PACE Hackweeks.
-schedule:
-  !include book/schedule.yaml
+schedule: false
+  # !include book/schedule.yaml
 team:
   !include team/team.yaml
 sponsors:
