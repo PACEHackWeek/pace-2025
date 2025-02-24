@@ -2,8 +2,8 @@ repo_directory: html
 name: PACE Hackweek
 favicon: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico
 apply:
-  url: ''
-  title: Applications Open Feb 24, 2025
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeaMNuniEsGCfTfdAT4jzpT59y834Kv-u3XXdCFCtR-Bakgyg/viewform?usp=sf_link
+  title: Apply Now
 banner:
   description: ''
   start_date: 3 August
@@ -25,7 +25,7 @@ banner:
 #    style: btn-warning
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2025-08-04T08:30:00-07:00"
+event_countdown: "2025-08-04T08:30:00-04:00"
 about:
   description: Hackweeks are participant-driven events that strive to create
     welcoming spaces for participants to learn new things, build community and
@@ -33,10 +33,10 @@ about:
     will take place in August 2025 (in-person).</br></br>Applications open February 24, 2025 and close March 24, 2025.
     See the <a href="https://pacehackweek.github.io/pace-2024/">2024 PACE HackWeek</a> page for 
     more information about the format of the PACE Hackweeks.
+# schedule:
+#   !include book/schedule.yaml
 team:
   !include team/team.yaml
-schedule:
-  !include book/schedule.yaml
 sponsors:
   description: ''
   organizations:
