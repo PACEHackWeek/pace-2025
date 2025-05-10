@@ -1,0 +1,144 @@
+timezone: UTC -4 (Eastern Daylight Time)
+tabs:
+- title: Day 1
+  date: Sunday
+  contents:
+  - title: Breakfast
+    description: "@ True Grits"
+    time: "Opens @ 7:30"
+  - title: Warm-up
+    description: Welcome, Introductions, and Housekeeping
+    time: "8:30"
+    leads:
+    - Anna Windle
+  - title: Science Lecture
+    description: PACE Mission Overview
+    time: "9:00"
+    leads:
+    - Jeremy Werdell
+  - title: Code Tutorial
+    description: CryoCloud Overview
+    time: "9:45"
+    leads:
+    - Ian Carroll
+  - title: Break
+    description: Coffee & Tea
+    time: "10:30"
+  - title: Code Demo
+    description: Collaborative Coding, for Science!
+    time: "10:45"
+    leads:
+    - Eli Holmes
+  - title: Group Projects
+    description: Orientation
+    time: "11:45"
+  - title: Lunch
+    description: "@ True Grits"
+    time: "12:00"
+  - title: Group Projects
+    description: Project Pitches
+    time: "13:00"
+  - title: Break
+    description: Coffee & Tea
+    time: "15:00"
+  - title: Group Projects
+    description: Group Alignment
+    time: "15:15"
+  - title: Break
+    description: Free Time
+    time: "16:30"
+  - title: Dinner
+    description: "@ True Grits"
+    time: "Closes @ 18:30"
+  - title: Evening Activity
+    description: Joy of Painting
+    time: "19:00"
+    leads:
+    - Bob Ross
+- title: Days 2-4
+  date: Mon-Wed
+  contents:
+  - title: Breakfast
+    description: "@ True Grits"
+    time: "Opens @ 7:30"
+  - title: Warm-up
+    description: Announcements & Group Check-in
+    time: "8:30"
+  - title: Science Lecture
+    description: null
+    time: "9:00"
+  - title: Code Tutorial
+    description: null
+    time: "9:45"
+  - title: Break
+    description: Coffee & Tea
+    time: "10:30"
+  - title: Group Projects
+    description: Work Time
+    time: "10:45"
+  - title: Lunch
+    description: "@ True Grits"
+    time: "12:00"
+  - title: Group Projects
+    description: Work Time
+    time: "13:00"
+  - title: Break
+    description: Coffee & Tea
+    time: "15:00"
+  - title: Group Projects
+    description: Work Time
+    time: "15:15"
+  - title: Code Demo
+    description: null
+    time: "15:45"
+  - title: Break
+    description: Free Time
+    time: "16:30"
+  - title: Dinner
+    description: "@ True Grits"
+    time: "Closes @ 18:30"
+  - title: Evening Activity
+    description: null
+    time: "19:00"
+- title: Day 5
+  date: Thursday
+  contents:
+  - title: Breakfast
+    description: "@ True Grits"
+    time: "Opens @ 7:30"
+  - title: Warm-up
+    description: Announcements & Group Check-in
+    time: "8:30"
+  - title: Science Lecture
+    description: null
+    time: "9:00"
+  - title: Code Tutorial
+    description: null
+    time: "9:45"
+  - title: Break
+    description: Coffee & Tea
+    time: "10:30"
+  - title: Code Demo
+    description: null
+    time: "10:45"
+  - title: Lunch
+    description: "@ True Grits"
+    time: "12:00"
+  - title: Group Projects
+    description: Work Time
+    time: "13:00"
+  - title: Group Projects
+    description: Presentations
+    time: "14:00"
+  - title: Break
+    description: Coffee & Tea
+    time: "15:00"
+  - title: Group Projects
+    description: Presentations
+    time: "15:15"
+  - title: Dinner
+    description: "@ True Grits"
+    time: "Closes @ 18:30"
+  - title: Evening Activity
+    description: null
+    time: "19:00"

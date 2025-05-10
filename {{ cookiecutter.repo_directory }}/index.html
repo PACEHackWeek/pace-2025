@@ -160,7 +160,7 @@
             </a>
         </div>
         {%- endif %}
-        
+
         {%- if 'links' in cookiecutter.about %}
             <div class="hero-cta text-center mb-4">
                 <h4 class="mb-3 text-center">
@@ -215,7 +215,7 @@
         </div>
     </div>
     {%- endif %}
-            
+
 </section>
 <!--//about-section-->
 
@@ -373,7 +373,7 @@
 {%- if cookiecutter.team %}
 <section id="team" class="team section">
     <div class="container">
-        <h3 class="section-heading text-center mb-3">Meet the team</h3>
+        <h3 class="section-heading text-center mb-3">Meet the Team</h3>
         <div class="section-intro text-center single-col-max mx-auto mb-5">
             {{ cookiecutter.team['description'] }}
         </div>
@@ -566,13 +566,15 @@
         {%- endif %}
 
         <!--/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */-->
+        {%- if cookiecutter.copyright %}
         <small class="copyright">©
             <script type="text/javascript">
                 document.write(new Date().getFullYear());
             </script>
-            {{ cookiecutter.name }}
+            {{ cookiecutter.copyright }}
         </small>
         <br>
+        {%- endif %}
         <small class="copyright">
             Designed with <i class="fas fa-heart" style="color: #EC645E;"></i>
             by

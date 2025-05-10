@@ -1,62 +1,80 @@
 # Checklist
-## Required setup
 
-```{attention}
-Please make sure to find some time to go through the below material before
-the hackweek.
+```{admonition} Complete this checklist BEFORE the hackweek!
+:class: attention
 
-__Here is a checklist of things you need to do in advance__:
 <div>
-  <input type="checkbox" name="a2">
-  <label for="a2">Create an EarthData Login</label>
+  <input type="checkbox" name="checklist-1">
+  <label for="checklist-1">Create an Earthdata Login</label>
 </div>
 <div>
-  <input type="checkbox" name="a3">
-  <label for="a3">Create a GitHub account</label>
+  <input type="checkbox" name="checklist-2">
+  <label for="checklist-2">Create a GitHub Account</label>
 </div>
 <div>
-  <input type="checkbox" name="a4">
-  <label for="a4">Login to the CryoCloud JupyterHub</label>
+  <input type="checkbox" name="checklist-3">
+  <label for="checklist-3">Login to the CryoCloud JupyterHub</label>
 </div>
 <div>
-  <input type="checkbox" name="a5">
-  <label for="a5">Review material from 2022 PACE course (Optional)</label>
+  <input type="checkbox" name="checklist-4">
+  <label for="checklist-4">Say Hello on Slack</label>
+</div>
+<div>
+  <input type="checkbox" name="checklist-5">
+  <label for="checklist-5">Nerd Nite: Consider the Possibilites!</label>
+</div>
+<div>
+  <input type="checkbox" name="checklist-6">
+  <label for="checklist-6">Review PACE Mission Information & Trainings</label>
 </div>
 ```
 
-### EarthData Login
+## Earthdata
 
-Each participant will need an Earthdata login to access NASA data. You will need to know your Earthdata username and password. 
-If you do not already have an Earthdata login, then navigate to the Earthdata login [page](https://urs.earthdata.nasa.gov/),
-register, and record username and password somewhere for use during the hackweek. 
+Each participant will need an Earthdata login to access NASA data. You will need to know your Earthdata username and password.
+If you do not already have an Earthdata login, then navigate to the [Earthdata login] page,
+register, and record your username and password somewhere for use during the hackweek.
 
-### GitHub Account
+## GitHub
 
-[GitHub](https://github.com/) is a hosting service for [Git](https://icesat-2-2023.hackweek.io/reference/glossary.html#term-Git)
-repositories, enabling us to share code across teams in a web environment.
+{term}`GitHub` is a hosting service for {term}`git` repositories, enabling us to collaborate on code within and across teams.
 There are two reasons you are required to have a GitHub account for the hackweek:
-1. Your GitHub account will give you access to the hackweek cloud computing resources.
+1. GitHub is the authentication provider for access to the event {term}`JupyterHub`.
 2. Project teams will be encouraged to use GitHub to collaborate on code.
-If you do not already have a GitHub account, then navigate to [GitHub](https://github.com/), enter your email address and click on the green ‘Sign up for GitHub’ button. 
-You will need to answer a few required questions in the following dialogs. Be sure to save your username 
-and password somewhere for use during the hackweek.
+If you do not already have a GitHub account, sign up at https://github.com.
+You will need to answer a few required questions in the following dialogs.
+Be sure to save your username and password somewhere for use during the hackweek.
 
-### CryoCloud JupyterHub
+## CryoCloud
 
-We will be using a web application called a [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/) for the hackweek. 
-All that is required is a web browser and a GitHub account for authentication. 
-We are partnering with [CryoCloud](https://book.cryointhecloud.com/intro.html), which is a JupyterHub built for NASA Cryosphere and Earth Science communities.
-Please follow these instructions which will guide you through gaining access to the CryoCloud. 
+We are partnering with {term}`CryoCloud`, which is a {term}`JupyterHub` built for NASA Cryosphere and Earth science communities.
+All that is required to write and run code on this web platform is a browser and a {term}`GitHub` account for authentication.
+Please follow these instructions which will guide you through gaining access to the CryoCloud.
 
-1. Fill out this short [Getting Started Survey](https://forms.gle/d8oP1gp9YikS2ixM8) to provide the required credentials and information to get you on the hub. 
+1. Fill out the [Getting started with CryoCloud] form to provide your GitHub username and other information to get you on the hub.
+   The "Award Number" was sent in a welcome email.
 
-2. A day or two after registering, you will receive an invite to the CyroCloudUsers team within the CryoCloud organization on GitHub. This will be an email from GitHub at the email you have linked to your GitHub profile. ***Please accept this invitation within 7 days or it will become invalid.*** Your membership on that GitHub team provides you with access to the CryoCloud. You will be invited to the CryoCloud Slack at the same time.
+2. A day or two after registering, you will receive an invite to the `CyroCloudUsers` team [within the CryoCloud organization].
+   This will be an email from GitHub at the email you linked to your GitHub profile.
+   ***Accept this invitation within 7 days, before it becomes invalid.***
+   `CyroCloudUsers` team membership provides you with access to the CryoCloud.
+   You will be invited to join our Slack Workspace at the same time.
 
-3. Navigate to the [CryoCloud JupyterHub](https://hub.cryointhecloud.com/) to make sure it works for you. You will need your GitHub username and password to sign on. 
+3. Browse over to the [CryoCloud JupyterHub] to confirm access. You will need your GitHub username and password to sign on.
 
-It can take several minutes for new servers to launch on the cloud. Once things are spun up, you will see your very own instance of a JupyterLab environment. 
+Feel free to choose and start a server.
+To shut a server down when you are done exploring, please navigate to `File` > `Hub Control Panel` and click the `Stop my Server` button.
+We ask you to do this on every use because keeping a session active uses AWS resources that are billed per time of use.
+If you forget this step, the server will shut down automatically after 90 min of no use.
+*To save our community money, when you are finished working for the day it is really helpful for you to manually stop your server before logging out of your JupyterHub session.*
 
-During the PACE Hackweek, you will see the "PACE Hackweek 2024" option on the "Server Options" page after logging in.
+<!--
+It can take several minutes for new servers to launch on the cloud.
+Once things are spun up, you will see your very own instance of a JupyterLab environment.
+
+Logging out will **NOT** cause any files under `/home/jovyan` to be deleted. It is equivalent to turning off your desktop computer at the end of the day.
+
+During the PACE Hackweek, you will see the "PACE Data Hackweek 2025" option on the "Server Options" page after logging in.
 
 ![server_options](../img/server_options.png)
 
@@ -66,11 +84,39 @@ During the PACE Hackweek, you will see the "PACE Hackweek 2024" option on the "S
 
 You will have access to your own virtual drive space under the `/home/jovyan` directory. No other users will be able to see or access your data files. You can add/remove/edit files in your virtual drive space. You will also have access to the `shared` folder (read-only access), and to the *`shared-public`* folder (read and write access). These are shared spaces so please make sure not to delete files from here unless they are yours.
 
-*To save our community money, when you are finished working for the day it is really helpful for you to explicitly stop your server before logging out of your JupyterHub session.* To shut your server down immediately when you’re exiting your session please select “File -> Hub Control Panel -> Stop my Server” then you can click the “Log Out” button. We ask this because when you keep a session active it uses up AWS resources and these resources cost money per hour of use. If you forget this step, though, the server will shut down automatically after 90 min of no use.
-Logging out will **NOT** cause any files under `/home/jovyan` to be deleted. It is equivalent to turning off your desktop computer at the end of the day.
+-->
 
-4. Add yourself to the CryoCloud #pace_hackweek [Slack channel](https://join.slack.com/t/cryospherecloud/shared_invite/zt-1isgbeuhh-q~cYYKtn_6i3PR1alGca_g) to join the community, get updates, and ask any questions.
+## Slack
 
-### 2022 PACE Course Review (Optional) 
+You will receive a Slack Workspace invite after you sign up for CryoCloud.
+Add yourself to the `#pace_hackweek` channel at {{ slack_workspace_url }} to join the community, get updates, develop project ideas, and ask questions.
 
-If interested, please review course material from the 2022 PACE training course: *What’s behind the curtain of the NASA PACE mission?* All lecture recordings and presentation PDFs can be accessed [here.](https://www.us-ocb.org/pace-mission-training-activity/)
+## Nerd Nite
+
+On the evening of Wednesday, August 6{sup}`th`, we will be hosting "Nerd Nite".
+This will be an informal and fun atmosphere, where mentors and participants can give entertaining presentations on anything even remotely related to PACE.
+The goal is to combine education with entertainment and include opportunities for audience participation.
+Keep it under 15 minutes, and leave time for questions.
+We encourage the use of slides, videos, music, inflatables, or other perceptual aids to enhance their presentations.
+
+Feel free to get creative!
+You might play music, share interesting or funny fieldwork stories, perform an interpretive dance, lead a game, or do a stand-up comedy routine.
+
+## Review Material
+
+There is way more than one-week’s worth of information about PACE! We suggest reviewing some of the following material before the hackweek:
+* videos and slides from the [2022 training course]
+* videos and tutorials from the [2024 hackweek]
+* video on [group work dynamic] from the 2024 hackweek
+* the [Ocean Color Help Hub] collection of tutorials and videos
+
+
+[Earthdata login]: https://urs.earthdata.nasa.gov/
+[CryoCloud]: https://book.cryointhecloud.com/intro.html
+[within the CryoCloud organization]: https://github.com/orgs/CryoInTheCloud/teams
+[Getting started with CryoCloud]: https://forms.gle/d8oP1gp9YikS2ixM8
+[CryoCloud JupyterHub]: https://hub.cryointhecloud.com/
+[2022 training course]: https://www.us-ocb.org/pace-mission-training-activity/
+[2024 hackweek]: https://pacehackweek.github.io/pace-2024/intro.html
+[group work dynamic]: https://www.youtube.com/watch?v=kvFtrC2VwDA
+[Ocean Color Help Hub]: https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/
