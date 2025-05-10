@@ -2,7 +2,6 @@
 
 During hackweeks we invite participants to collaborate on group projects in small teams of 3 to 6 people.
 Projects provide unique opportunities for networking, advancing research, and learning.
-
 We encourage you to start thinking now about project topics.
 We will included a short list of potential topics on this website, drawn from your application forms.
 More information on project planning will be forthcoming.
