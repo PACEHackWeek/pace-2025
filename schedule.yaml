@@ -31,7 +31,7 @@ tabs:
     - Eli Holmes
   - title: Group Projects
     description: Orientation
-    time: "11:45"
+    time: "11:30"
   - title: Lunch
     description: "@ True Grits"
     time: "12:00"
@@ -40,10 +40,10 @@ tabs:
     time: "13:00"
   - title: Break
     description: Coffee & Tea
-    time: "15:00"
+    time: "14:30"
   - title: Group Projects
     description: Group Alignment
-    time: "15:15"
+    time: "14:45"
   - title: Break
     description: Free Time
     time: "16:30"
@@ -84,10 +84,10 @@ tabs:
     time: "13:00"
   - title: Break
     description: Coffee & Tea
-    time: "15:00"
+    time: "14:30"
   - title: Group Projects
     description: Work Time
-    time: "15:15"
+    time: "14:45"
   - title: Code Demo
     description: null
     time: "15:45"
@@ -121,6 +121,9 @@ tabs:
   - title: Code Demo
     description: null
     time: "10:45"
+  - title: Group Projects
+    description: Work Time
+    time: "11:30"
   - title: Lunch
     description: "@ True Grits"
     time: "12:00"
@@ -132,10 +135,10 @@ tabs:
     time: "14:00"
   - title: Break
     description: Coffee & Tea
-    time: "15:00"
+    time: "14:30"
   - title: Group Projects
     description: Presentations
-    time: "15:15"
+    time: "14:45"
   - title: Dinner
     description: "@ True Grits"
     time: "Closes @ 18:30"
