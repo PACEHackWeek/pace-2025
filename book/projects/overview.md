@@ -1,17 +1,15 @@
 # Overview
 
-During hackweeks we invite participants to collaborate in small group project teams (usually 3-6 people).
-Projects provide unique opportunities for networking, advancing research and learning new things.
+During hackweeks we invite participants to collaborate on group projects in small teams of 3 to 6 people.
+Projects provide unique opportunities for networking, advancing research, and learning.
 
-We encourage you to start thinking about project topics.
-We will included a short list of potential project topics on this website, based on your applications.
+We encourage you to start thinking now about project topics.
+We will included a short list of potential topics on this website, drawn from your application forms.
 More information on project planning will be forthcoming.
 
-
-Available PACE data
-
-Familiarize yourself with the available PACE data products and the full release notes for Version 2 reprocessing. PACE is a new and revolutionary mission, and a lot of its products are still in development, which means you won’t be able to work with them at this time. Try to think of ideas for projects you could work on during Hackweek that would involve the available data products you see in the table.
-
+Familiarize yourself with the PACE [data products], their [availability], and the full [release notes] for Version 3 reprocessing.
+PACE is a new and revolutionary mission, and a lot of its products are still in development, which means you won’t yet be able to work with them.
+Try to think of ideas for projects you could work on during the hackweek that would involve data products shown as available.
 
 We encourage you to be creative in how you design your project work! Here are some ways people have used project time in the past:
 
@@ -25,3 +23,7 @@ We encourage you to be creative in how you design your project work! Here are so
 :width: 700px
 :align: center
 ```
+
+[data products]: https://pace.oceansciences.org/data.htm
+[availability]: https://pace.oceansciences.org/data_table.htm
+[release notes]: https://oceancolor.gsfc.nasa.gov/data/reprocessing/V3.0/pace-oci/
