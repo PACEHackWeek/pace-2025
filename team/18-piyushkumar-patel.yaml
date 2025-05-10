@@ -1,0 +1,21 @@
+- title: Piyushkumar Patel
+  avatar: https://github.com/PiyushX23.png
+  role: Scientist
+  organizations:
+    - name: SRON
+      url: https://www.sron.nl/en/pillars/our-people/piyushkumar-patel/
+  bio: |
+    Dr. Patel is an atmospheric scientist with vast experience in satellite remote sensing and
+    data analysis to improve the process-level understandings associated with aerosol-cloud-climate interactions.
+  expertise:
+    - Aerosol-Cloud-Climate Interactions
+    - Satellite Remote Sensing
+    - Data Science
+  social:
+    - icon: github
+      link: https://github.com/PiyushX23
+    - icon: orcid
+      link: https://orcid.org/0000-0003-2179-8739
+  user_groups:
+    - Organizer
+    - Mentor

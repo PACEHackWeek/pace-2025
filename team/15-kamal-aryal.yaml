@@ -1,0 +1,16 @@
+- title: Kamal Aryal
+  avatar: https://physics.umbc.edu/wp-content/uploads/sites/97/2019/08/Kamal-Aryal.jpg
+  role: PhD Candidate
+  organizations:
+    - name: University of Maryland Baltimore County
+      url: https://gestar2.umbc.edu/gestar-ii-umbc-graduate-fellow-2024-2025/
+  bio: |
+    Development of an efficient and accurate atmospheric correction algorithm for hyperspectral
+    radiometer based on co-located multiangle polarimeter measurements
+  expertise:
+    - atmospheric correction
+    - polarimetry
+  social: []
+  user_groups:
+    - Organizer
+    - Mentor

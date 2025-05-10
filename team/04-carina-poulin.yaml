@@ -3,17 +3,18 @@
   role: Scientific Designer
   organizations:
     - name: NASA GSFC
-    - name: Science Systems and Applications, Inc (SSAI)
       url: https://science.gsfc.nasa.gov/sci/bio/carina.poulin
-  bio: Dr. Carina Poulin is a Scientific Designer for NASA’s Ocean Ecology Laboratory. She has a background in research about plankton optical properties.
+    - name: Science Systems and Applications Inc
+  bio: |
+    Dr. Carina Poulin is a Scientific Designer for NASA's Ocean Ecology Laboratory. She
+    has a background in research about plankton optical properties.
   expertise:
-    - Ocean optics
-    - Plankton physiology
-    - Design
+    - ocean optics
+    - plankton physiology
+    - design
   social:
     - icon: github
       link: https://github.com/cpoulinn
   user_groups:
-    - Hackweek Organizer 
-    - Tutorial Lead
- 
+    - Organizer
+    - Mentor

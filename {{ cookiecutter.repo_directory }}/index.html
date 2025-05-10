@@ -461,7 +461,14 @@
                                                 {{ person['role'] }}
                                             </div>
                                             <div class="meta mb-2">
-                                                {{person['organizations']|map(attribute='name')|join(' &amp; ')}}
+                                                {% for org in person['organizations'] %}
+                                                {%- if 'url' in org -%}
+                                                <a href="{{ org['url'] }}" taget="_blank">{{ org['name'] }}</a>
+                                                {%- else -%}
+                                                {{ org['name'] }}
+                                                {%- endif -%}
+                                                {%- if not loop.last %}, {% endif -%}
+                                                {% endfor %}
                                             </div>
                                             {%- if 'social' in person %}
                                             <ul class="social-list list-inline mb-0">
@@ -492,7 +499,7 @@
                                     {{ person['bio'] }}
                                     {%- if person['expertise']|length > 0 %}
                                     <div class="mt-1">
-                                        <h5>Interests / Expertise</h5>
+                                        <h5>Interests & Expertise</h5>
                                         <ul>
                                             {%- for ex in person['expertise'] %}
                                             <li>{{ex}}</li>
