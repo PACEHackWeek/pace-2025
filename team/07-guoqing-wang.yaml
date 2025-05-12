@@ -4,8 +4,10 @@
   organizations:
     - name: NASA/GSFC
       url: https://science.gsfc.nasa.gov/sci/bio/guoqing.wang
-  bio: Dr. Guoqing Wang is a Ocean Biology Distributed Active Archive Center (DAAC) scientist in 
-       the Ocean Biology Processing Group at NASA Goddard Space Flight Center.
+    - name: Science Systems and Applications Inc
+  bio: |
+    Dr. Guoqing Wang is a Ocean Biology Distributed Active Archive Center (DAAC) scientist in
+    the Ocean Biology Processing Group at NASA Goddard Space Flight Center.
   expertise:
     - ocean color
   social:
@@ -14,4 +16,4 @@
     - icon: orcid
       link: https://orcid.org/0000-0001-5552-319X
   user_groups:
-    - Hackweek Organizer
+    - Organizer

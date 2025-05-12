@@ -4,7 +4,7 @@
   organizations:
     - name: NASA/GSFC/OEL
       url: https://science.gsfc.nasa.gov/sci/bio/meng.gao
-  bio: Dr. Meng Gao is a research scientist in the Ocean Ecology Laboratory (OEL) at NASA Goddard Space Flight Center (GSFC). He currently supports NASA's PACE mission in advancing aerosol and ocean color remote sensing using PACE multi-angle polarimeters. 
+  bio: Dr. Meng Gao is a research scientist in the Ocean Ecology Laboratory (OEL) at NASA Goddard Space Flight Center (GSFC). He currently supports NASA's PACE mission in advancing aerosol and ocean color remote sensing using PACE multi-angle polarimeters.
   expertise:
     - radiative transfer
     - remote sensing
@@ -15,5 +15,5 @@
     - icon: orcid
       link: https://orcid.org/0000-0002-5818-1639
   user_groups:
-    - Hackweek Organizer 
- 
+    - Organizer
+    - Mentor

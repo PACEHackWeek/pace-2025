@@ -1,6 +1,4 @@
-# Glossaries
-
-## Tools and Technology (general)
+# Glossary
 
 ```{glossary}
 [Binder](https://mybinder.org)
@@ -17,6 +15,11 @@
 [Conda](https://docs.conda.io)
   Package, dependency and environment management for any language—Python, R,
   Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN, and more.
+
+[CryoCloud](https://book.cryointhecloud.com/)
+  A NASA-supported community and cloud platform built in partnership with the
+  International Interactive Computing Collaboration (2i2c) and designed to advance
+  collaborative, data-intensive Earth science across all disciplines.
 
 [Docker](https://www.docker.com)
   Docker provides the ability to package and run an application in a loosely
@@ -69,5 +72,3 @@
   you to use the app, you can still interface with Slack in a web browser.
 
 ```
-
-

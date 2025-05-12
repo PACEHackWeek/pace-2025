@@ -10,37 +10,47 @@ This repo is the source for our website: https://pacehackweek.github.io/pace-202
 
 ## Developers
 
-### New or updated tutorials
+### Changes other than notebooks
 
-1. Fork or clone the pace-2025, pace-2025-tutorials, oceandata-notebooks repos.
-1. When tutorials are ready to be moved into the Jupyter Book, source the function in `copy_tutorials.py` and then use it to create the unrendered (tutorial repo) and rendered notebooks (book).
-2. This will create a branch for you to work on.
-3. Switch to that branch and edit `book/_toc.yml` and `book/tutorials/index.md`. Commit those changes to the branch.
-4. If there are any images that were created and that you need in the tutorial, then you will need to commit those and push.
-5. Create a PR and **label the PR `preview`**. A link to click to create the PR will be shown.
-6. After you create the PR (with label `preview`, a link to a netlify preview will appear. Check to ensure that it looks good.
-7. Troubleshooting
-    * Do you need to change the original tutorial and it is in the gfdl org? Go there and make changes. Then rerun the function in `copy_tutorials.py`.
-    * Do you want to add files specific to the hackweek? You can add those, to the pace-2024 repo.
-9. Once the PR looks good in netlify, it can be merged.
+1. Clone this repo, or pull updates.
+1. Make the necessary changes, and commit them to a new branch, and push.
+1. Create a PR and add the `preview` label.
+1. A link to a website preview will appear in the comments.
+   Check to ensure that it looks good and make add commits as necessary.
+1. Once the PR is reviewed by another team member, it can be merged.
 
-OR
+### New or updated notebooks
 
-1. Clone the oceandata-noteboooks in an adjacent directory, and follow README instructions to build. (`jb build src/`)
-2. Copy updates to the executed notebooks from the src/_build folder of the oceandata-notebooks repo to the book in this repo.
+1. Clone this repo, or pull updates.
+1. Clone the oceandata-noteboooks in an adjacent directory, and follow those README instructions to build that book.
+1. Copy updates to the executed notebooks from the src/_build folder of the oceandata-notebooks repo to the book in this repo.
    ```
    rsync -a ../oceandata-notebooks/src/_build/jupyter_execute/notebooks/hackweek/ book/presentations/hackweek/
    ```
-3. Commit the executed notebooks in this repo, and push to a PR tagged with `preview`.
+1. Commit to a new branch and proceed as above with a PR.
 
-### Updating other parts of the Jupyter Book
+### Local preview
 
-2. Make the necessary changes.
-3. Create a PR and label the PR `preview`.
-4. A link to a netlify preview will appear. Check to ensure that it looks good and make any necessary changes.
-5. Once the PR is reviewed by another team member, it can be merged.
+Install the tools you need.
 
-### Template courtesy of (by permission) eScience University of Washington
+```shell
+uv tool install --with jinja_markdown cookiecutter
+uv tool install jupyter-book # probably <2?
+```
+
+Build the HTML.
+
+```shell
+./scripts/build_resources.sh
+```
+
+Run a local web server.
+
+```shell
+python -m http.server -d book/_build/html/
+```
+
+## Template courtesy of (by permission) eScience University of Washington
 
 This is a clone of the eScience template repository designed to streamline creating two linked websites for a [UW eScience Hackweek](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html).
 
