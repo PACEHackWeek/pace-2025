@@ -4,7 +4,7 @@
 
 ```{admonition} Preparation
 :class: attention
-Monitor the [logistics] page for information you need to know for a successful hackweek.
+Monitor the [logistics] page for information you need to know for a successful hackweek and complete the [checklist]!
 ```
 
 ```{admonition} Presentations
@@ -29,6 +29,7 @@ Read more about the teams and results on our [projects] page.
 ```
 
 [logistics]: preliminary/what-to-expect
+[checklist]: preliminary/checklist
 [lectures]: presentations/lectures
 [tutorials]: presentations/tutorials
 [notebooks]: presentations/notebooks
