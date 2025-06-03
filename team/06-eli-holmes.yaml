@@ -5,9 +5,12 @@
     - name: NOAA/NMFS
       url: https://www.fisheries.noaa.gov/contact/elizabeth-holmes-phd
     - name: Univ of Washington School of Aquatic and Fisheries Sciences
+      url: https://faculty.washington.edu/eeholmes/
   bio: |
     Eli has been an organizer for many ocean hackweeks and develops Jupyter notebooks for
-    working with ocean remote-sensing data. She is excited about the potential for open
+    working with ocean remote-sensing data. She is involved in developing and supporting 
+    use of hyperspectral data for fisheries and ocean ecosystem management and research.
+    She is excited about the potential for open
     science and open collaboration to accelerate the incorporation of new ocean data products
     into fisheries research and management.
   expertise:
