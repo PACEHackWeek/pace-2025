@@ -43,6 +43,7 @@ parts:
   chapters:
     - file: projects/overview
 #     - file: projects/list-of-projects
+    - file: projects/satellite_data_availability
 - caption: Reference
   chapters:
     - file: reference/glossary
