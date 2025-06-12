@@ -1,0 +1,22 @@
+- title: Matthew Kehrli
+  avatar: https://github.com/PACEHackWeek/pace-2025/blob/main/team/img/Kehrli_Headshot_20211001.jpg
+  role: Lead Research Scientist
+  organizations:
+    - name: NASA/GSFC
+    - name: Science Systems and Applications, Inc. (SSAI)
+  bio:
+    Matthew Kehrli is a Lead Research Scientist in NASA's Ocean Ecology Laboratory at the Goddard Space Flight Center. He serves as a subject matter expert in discrete inherent optical property measurements, and he aims to conduct research in regional bio-optical processes using PACE science data products.  
+  expertise:
+    - Discrete Inherent Optical Properties
+    - Ocean Color Inversion Algorithm Development and Implementation
+  social:
+    - icon: github
+      link: https://github.com/mdkehrli
+    - icon: orcid
+      link: https://orcid.org/0000-0003-1268-676X
+    - icon: linkedin
+      link: https://www.linkedin.com/in/matthewdkehrli
+  user_groups:
+    - Organizer
+    - Mentor
+
