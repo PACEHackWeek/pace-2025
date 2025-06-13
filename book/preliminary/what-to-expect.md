@@ -44,10 +44,10 @@ For participants wishing to brush up on fundamentals before the event, we recomm
 ### Dorms
 
 * Dorms are all single rooms with a shared bathroom.
-* Participants who opt to will be staying at Chesapeake Hall.
-* Dorm check-in will be from 9am to 5pm on Saturday, August 2{sup}`nd`.
+* Participants who opt to will be staying at Patapsco Hall.
+* Dorm check-in will be from 4pm to 7pm on Saturday, August 2{sup}`nd`.
 * Dorm check-out will be from 9am to 12pm on Friday, August 8{sup}`th`.
-* There is a 24 hour desk in the lobby of the dorm. If you arrive after 5pm on Saturday, check in at the 24 hour desk.
+* There is a 24 hour desk in the lobby of the dorm. If you arrive early or late on Saturday, check-in at the 24 hour desk.
 
 ### Meals
 
