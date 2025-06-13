@@ -4,7 +4,8 @@ With all the moving pieces, it can be hard to know where to turn for help! Any o
 the [mentors] can provide support during the hackweek. If you have any questions
 between now and the event, please ask!
 
-- General: Anna Windle \<anna.windledipaola@nasa.gov\>
-- Travel reimbursement: Mary Zawoysky \<mzawoysky@whoi.edu\>
+- Projects or data: {{ '[#pace_hackweek]({url})'.format(url=slack_workspace_url) }}
+- Travel reimbursement: [Mary Zawoysky \<mzawoysky@whoi.edu\>](mailto:mzawoysky@whoi.edu)
+- General: [Anna Windle \<anna.windledipaola@nasa.gov\>](mailto:anna.windledipaola@nasa.gov)
 
 [mentors]: https://PACEHackWeek.github.io/pace-2025/index.html?jump_to=team
