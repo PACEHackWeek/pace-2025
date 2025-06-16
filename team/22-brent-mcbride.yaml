@@ -1,0 +1,14 @@
+- title: Brent McBride
+  avatar: https://science.gsfc.nasa.gov/600/ECSS/images/BrentMcBride-ProfilePhoto.jpg
+  role: Instrument Scientist
+  organizations:
+    - name: NASA/GSFC
+      url: https://science.gsfc.nasa.gov/sci/bio/brent.mcbride
+    - name: UMBC
+  bio: null
+  expertise: null
+  social:
+    - icon: orcid
+      link: https://orcid.org/0000-0002-3138-9341
+  user_groups:
+    - Lecturer

@@ -4,10 +4,8 @@
   organizations:
     - name: UMBC 
       url: https://jcet.umbc.edu/directory/remer-lorraine/
-  bio: ' ' 
-  expertise: ' '
-  social:
-    - icon: github
-      link: ' '
+  bio: null
+  expertise: null
+  social: []
   user_groups:
     - Lecturer
