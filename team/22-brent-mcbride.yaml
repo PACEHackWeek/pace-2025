@@ -5,7 +5,7 @@
     - name: NASA/GSFC
       url: https://science.gsfc.nasa.gov/sci/bio/brent.mcbride
     - name: UMBC
-  bio: ""
+  bio: " "
   expertise: []
   social:
     - icon: orcid
