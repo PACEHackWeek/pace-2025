@@ -4,8 +4,8 @@
   organizations:
     - name: NASA Headquarters Science Mission Directorate
       url: https://science.nasa.gov/people/kelsey-bisson/
-  bio: null
-  expertise: null
+  bio: ""
+  expertise: []
   social:
     - icon: orcid
       link: https://orcid.org/0000-0003-4230-3467
