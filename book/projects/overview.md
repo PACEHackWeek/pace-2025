@@ -2,12 +2,12 @@
 
 During the hackweek, participants will collaborate on group projects in small teams of 3 to 6 people.
 Projects provide unique opportunities for networking, advancing research, and learning.
-We encourage you to start thinking now about project topics! Please visit the [Group Projects Google Sheets] to mark your interest. 
+We encourage you to start thinking now about project topics!
 
 Guidance on group project development will be ongoing until the Hackweek begins.
 We expect an iterative and organic process that hits the following milestones:
 
-* *pre-hackweek*: elicitation of topic interests
+* *pre-hackweek*: visit the {{ project_spreadsheets_url }} spreadsheet to mark your interest
 * *day one*: aggregation of participants into topical groups
 * *last day*: presentation of deliverables, which are best described as a hypothesis rooted in data exploration and worthy of deeper investigation!
 
