@@ -21,5 +21,4 @@ Previous PACE Hackweek projects can be found on the [2024 website].
 
 
 
-[Group Projects Google Sheets]: https://docs.google.com/spreadsheets/d/1vMjwZMHkr4zlRKyN8WcwCwMBhtX6HHZU9Nn7UZDevY4/edit?gid=0#gid=0
 [2024 website]: https://pacehackweek.github.io/pace-2024/projects/list_of_projects.html
