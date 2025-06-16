@@ -4,7 +4,7 @@ During the hackweek, participants will collaborate on group projects in small te
 Projects provide unique opportunities for networking, advancing research, and learning.
 We encourage you to start thinking now about project topics!
 
-Guidance on group project development will be ongoing until the Hackweek begins.
+Guidance on group project development will be ongoing until the hackweek begins.
 We expect an iterative and organic process that hits the following milestones:
 
 * *pre-hackweek*: visit the {{ project_spreadsheets_url }} spreadsheet to mark your interest
