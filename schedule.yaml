@@ -57,7 +57,7 @@ tabs:
     leads:
     - Bob Ross
 - title: Day 2
-  date: Tuesday
+  date: Monday
   contents:
   - title: Breakfast
     description: "@ True Grits"
@@ -145,7 +145,7 @@ tabs:
     description: Work Time
     time: "14:45"
   - title: Code Demo
-    description: null
+    description: Machine Learning with Satellite Data
     time: "15:45"
     leads:
     - Kamal Aryal
@@ -194,7 +194,7 @@ tabs:
     description: Work Time
     time: "14:45"
   - title: Code Demo
-    description: null
+    description: Data Products from Multi-angle Polarimeters
     time: "15:45"
     leads:
     - Meng Gao
@@ -226,7 +226,7 @@ tabs:
     description: Coffee & Tea
     time: "9:45"
   - title: Code Demo
-    description: "Taking it With You: Reproducible Environments"
+    description: Environments and Containers for Reusable Projects
     time: "10:00"
     leads:
     - Morgaine McKibben
