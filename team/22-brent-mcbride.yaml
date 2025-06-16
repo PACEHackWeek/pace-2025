@@ -5,7 +5,10 @@
     - name: NASA/GSFC
       url: https://science.gsfc.nasa.gov/sci/bio/brent.mcbride
     - name: UMBC
-  bio: " "
+  bio: |
+    Brent McBride led the pre-launch calibration and cloud science applications with HARP,
+    and also contributed to its development at all stages, including optical design, deployment, algorithm development, and on-orbit trending.
+    His work also includes operational calibration and algorithm development for the Moderate-resolution Imaging Spectro-radiometer (MODIS) instruments on NASA's Aqua and Terra satellites. 
   expertise: []
   social:
     - icon: orcid
