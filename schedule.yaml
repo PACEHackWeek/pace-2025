@@ -16,19 +16,20 @@ tabs:
     time: "9:00"
     leads:
     - Jeremy Werdell
-  - title: Code Tutorial
-    description: CryoCloud Overview
-    time: "9:45"
-    leads:
-    - Ian Carroll
   - title: Break
     description: Coffee & Tea
-    time: "10:30"
+    time: "9:45"
+  - title: Code Tutorial
+    description: CryoCloud & Earthdata Cloud
+    time: "10:00"
+    leads:
+    - Anna Windle
   - title: Code Demo
     description: Collaborative Coding, for Science!
     time: "10:45"
     leads:
     - Eli Holmes
+    - Ian Carroll
   - title: Group Projects
     description: Orientation
     time: "11:30"
@@ -55,8 +56,59 @@ tabs:
     time: "19:00"
     leads:
     - Bob Ross
-- title: Days 2-4
-  date: Mon-Wed
+- title: Day 2
+  date: Tuesday
+  contents:
+  - title: Breakfast
+    description: "@ True Grits"
+    time: "Opens @ 7:30"
+  - title: Warm-up
+    description: Announcements & Group Check-in
+    time: "8:30"
+  - title: Science Lecture
+    description: "Biodiversity from sPACE: insights from ecological theory"
+    time: "9:00"
+    leads:
+    - Kelsey Bisson
+  - title: Break
+    description: Coffee & Tea
+    time: "9:45"
+  - title: Code Tutorial
+    description: Visualizing Satellite Data
+    time: "10:00"
+    leads:
+    - Carina Poulin
+  - title: Group Projects
+    description: Work Time
+    time: "10:45"
+  - title: Lunch
+    description: "@ True Grits"
+    time: "12:00"
+  - title: Group Projects
+    description: Work Time
+    time: "13:00"
+  - title: Break
+    description: Coffee & Tea
+    time: "14:30"
+  - title: Group Projects
+    description: Work Time
+    time: "14:45"
+  - title: Code Demo
+    description: Matchups of in-situ Data With Satellite Data
+    time: "15:45"
+    leads:
+    - James Allen
+  - title: Break
+    description: Free Time
+    time: "16:30"
+  - title: Dinner
+    description: "@ True Grits"
+    time: "Closes @ 18:30"
+  - title: Evening Activity
+    description: Fireside Chat with NASA Program Managers
+    time: "19:00"
+- title: Day 3
+  date: Tuesday
   contents:
   - title: Breakfast
     description: "@ True Grits"
@@ -67,12 +119,16 @@ tabs:
   - title: Science Lecture
     description: null
     time: "9:00"
-  - title: Code Tutorial
-    description: null
-    time: "9:45"
+    leads:
+    - Brent McBride
   - title: Break
     description: Coffee & Tea
-    time: "10:30"
+    time: "9:45"
+  - title: Code Tutorial
+    description: Using the SeaDAS Command Line Tools
+    time: "10:00"
+    leads:
+    - Riley Blocker
   - title: Group Projects
     description: Work Time
     time: "10:45"
@@ -91,6 +147,58 @@ tabs:
   - title: Code Demo
     description: null
     time: "15:45"
+    leads:
+    - Kamal Aryal
+    - Pengwang Zhai
+  - title: Break
+    description: Free Time
+    time: "16:30"
+  - title: Dinner
+    description: Crab Feast @ Patapsco Valley State Park
+    time: "17:00"
+- title: Day 4
+  date: Wednesday
+  contents:
+  - title: Breakfast
+    description: "@ True Grits"
+    time: "Opens @ 7:30"
+  - title: Warm-up
+    description: Announcements & Group Check-in
+    time: "8:30"
+  - title: Science Lecture
+    description: null
+    time: "9:00"
+    leads:
+    - Lorraine Remer
+  - title: Break
+    description: Coffee & Tea
+    time: "9:45"
+  - title: Code Tutorial
+    description: Parallel and Distributed Computing
+    time: "10:00"
+    leads:
+    - Ian Carroll
+  - title: Group Projects
+    description: Work Time
+    time: "10:45"
+  - title: Lunch
+    description: "@ True Grits"
+    time: "12:00"
+  - title: Group Projects
+    description: Work Time
+    time: "13:00"
+  - title: Break
+    description: Coffee & Tea
+    time: "14:30"
+  - title: Group Projects
+    description: Work Time
+    time: "14:45"
+  - title: Code Demo
+    description: null
+    time: "15:45"
+    leads:
+    - Meng Gao
+    - Sean Foley
   - title: Break
     description: Free Time
     time: "16:30"
@@ -98,7 +206,7 @@ tabs:
     description: "@ True Grits"
     time: "Closes @ 18:30"
   - title: Evening Activity
-    description: null
+    description: Nerd Nite
     time: "19:00"
 - title: Day 5
   date: Thursday
@@ -110,17 +218,18 @@ tabs:
     description: Announcements & Group Check-in
     time: "8:30"
   - title: Science Lecture
-    description: null
+    description: "PACE Terrestrial Products – a New View of Ecosystem Traits, Phenology, and Function"
     time: "9:00"
-  - title: Code Tutorial
-    description: null
-    time: "9:45"
+    leads:
+    - Fred Huemmrich 
   - title: Break
     description: Coffee & Tea
-    time: "10:30"
+    time: "9:45"
   - title: Code Demo
-    description: null
-    time: "10:45"
+    description: "Taking it With You: Reproducible Environments"
+    time: "10:00"
+    leads:
+    - Morgaine McKibben
   - title: Group Projects
     description: Work Time
     time: "11:30"
@@ -143,5 +252,5 @@ tabs:
     description: "@ True Grits"
     time: "Closes @ 18:30"
   - title: Evening Activity
-    description: null
+    description: Trivia
     time: "19:00"
