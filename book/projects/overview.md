@@ -2,9 +2,9 @@
 
 During the hackweek, participants will collaborate on group projects in small teams of 3 to 6 people.
 Projects provide unique opportunities for networking, advancing research, and learning.
-We encourage you to start thinking now about project topics!
+We encourage you to start thinking now about project topics! Please visit the [Group Projects Google Sheets] to mark your interest. 
 
-Guidance on group project development will be ongoing until the hackweek begins.
+Guidance on group project development will be ongoing until the Hackweek begins.
 We expect an iterative and organic process that hits the following milestones:
 
 * *pre-hackweek*: elicitation of topic interests
@@ -17,13 +17,9 @@ We encourage you to be creative in how you design your project work! Here are so
 * *focus on community building*: hackweeks bring people together for the first time and projects are used to build social fabric and foster open science
 * *focus on research*: people often work to advance a research challenge using tools shared during the event
 
-```{image} ../img/projects-montage.png
-:alt: picture of people interacting during hackweek project work
-:class: bg-primary mb-1
-:width: 700px
-:align: center
-```
+Previous PACE Hackweek projects can be found on the [2024 website].
 
-[data products]: https://pace.oceansciences.org/data.htm
-[availability]: https://pace.oceansciences.org/data_table.htm
-[release notes]: https://oceancolor.gsfc.nasa.gov/data/reprocessing/V3.0/pace-oci/
+
+
+[Group Projects Google Sheets]: https://docs.google.com/spreadsheets/d/1vMjwZMHkr4zlRKyN8WcwCwMBhtX6HHZU9Nn7UZDevY4/edit?gid=0#gid=0
+[2024 website]: https://pacehackweek.github.io/pace-2024/projects/list_of_projects.html
