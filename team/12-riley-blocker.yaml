@@ -5,7 +5,7 @@
     - name: NASA/GSFC
       url: https://science.gsfc.nasa.gov/earth/oceanecology/bio/edward.r.blocker
     - name: Science Systems and Applications, Inc (SSAI)
-  bio:  |
+  bio: |
     Dr. E. Riley Blocker is a senior research scientist at SSAI working on-site as a
     post-doctoral scholar at NASA Goddard Space Flight Center’s Ocean Ecology Laboratory (OEL).
   expertise:
@@ -17,4 +17,5 @@
       link: https://orcid.org/0000-0003-3278-4527
   user_groups:
     - Organizer
+    - Presenter
     - Mentor

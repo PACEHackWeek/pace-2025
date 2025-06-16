@@ -1,0 +1,19 @@
+- title: Kelsey Bisson
+  avatar: https://science.nasa.gov/wp-content/uploads/2023/12/headshot.jpg?w=4096&format=webp
+  role: Program Scientist
+  organizations:
+    - name: NASA Headquarters Science Mission Directorate
+      url: https://science.nasa.gov/people/kelsey-bisson/
+  bio: |
+    Kelsey Bisson is a Program Scientist for the Ocean Biology and Biogeochemistry Program (OBB) in the NASA Headquarters Science Mission Directorate.
+    She received her B.S. in Geological Sciences from the Ohio State University (2013) and a Ph.D. at the University of California, Santa Barbara (2018) studying the ocean's biological carbon pump from space.
+    Kelsey is an advocate for using multiple sensors in tandem to advance understanding of ocean ecosystems, especially through lidar.
+    She has been a member of NASA’s ICESat-2 and EXPORTS science teams.
+    More recently she has studied polar ecosystem change and the effects of extreme events (volcanos, wildfires) on marine biogeochemistry.
+    Before joining NASA in 2023 as an IPA she was a research Assistant Professor at Oregon State University.
+  expertise: []
+  social:
+    - icon: orcid
+      link: https://orcid.org/0000-0003-4230-3467
+  user_groups:
+    - Lecturer

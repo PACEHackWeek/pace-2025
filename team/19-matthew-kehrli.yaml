@@ -4,8 +4,10 @@
   organizations:
     - name: NASA/GSFC
     - name: Science Systems and Applications, Inc. (SSAI)
-  bio:
-    Matthew Kehrli is a Lead Research Scientist in NASA's Ocean Ecology Laboratory at the Goddard Space Flight Center. He serves as a subject matter expert in discrete inherent optical property measurements, and he aims to conduct research in regional bio-optical processes using PACE science data products.  
+  bio: |
+    Matthew Kehrli is a Lead Research Scientist in NASA's Ocean Ecology Laboratory at the Goddard Space Flight Center.
+    He serves as a subject matter expert in discrete inherent optical property measurements, and he aims to conduct
+    research in regional bio-optical processes using PACE science data products.
   expertise:
     - Discrete Inherent Optical Properties
     - Ocean Color Inversion Algorithm Development and Implementation
@@ -19,4 +21,3 @@
   user_groups:
     - Organizer
     - Mentor
-

@@ -11,7 +11,7 @@
     developed bio-optical models. Currently, I'm very excited about uncertainty and all
     the information it contains!
   expertise:
-    - Hydrosol optical properties
+    - hydrosol optical properties
     - polarization
     - bio-optical algorithms
   social:
@@ -21,4 +21,5 @@
       link: https://orcid.org/0000-0002-6765-7571
   user_groups:
     - Organizer
+    - Presenter
     - Mentor
