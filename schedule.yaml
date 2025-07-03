@@ -19,25 +19,27 @@ tabs:
   - title: Break
     description: Coffee & Tea
     time: "9:45"
-  - title: Code Tutorial
-    description: CryoCloud & Earthdata Cloud
+  - title: Getting Started
+    description: Orientation to CryoCloud
     time: "10:00"
+    leads:
+    - Ian Carroll
+  - title: Code Tutorial
+    description: Earthaccess & Earthdata Cloud
+    time: "10:30"
     leads:
     - Anna Windle
   - title: Code Demo
     description: Collaborative Coding, for Science!
-    time: "10:45"
+    time: "11:15"
     leads:
     - Eli Holmes
     - Ian Carroll
-  - title: Group Projects
-    description: Orientation
-    time: "11:30"
   - title: Lunch
     description: "@ True Grits"
     time: "12:00"
   - title: Group Projects
-    description: Project Pitches
+    description: Orientation & Project Pitches
     time: "13:00"
   - title: Break
     description: Coffee & Tea
@@ -128,7 +130,7 @@ tabs:
     description: Using the SeaDAS Command Line Tools
     time: "10:00"
     leads:
-    - Riley Blocker
+    - Anna Windles
   - title: Group Projects
     description: Work Time
     time: "10:45"
@@ -229,7 +231,7 @@ tabs:
     description: Environments and Containers for Reusable Projects
     time: "10:00"
     leads:
-    - Morgaine McKibben
+    - Eli Holmes
   - title: Group Projects
     description: Work Time
     time: "11:30"
