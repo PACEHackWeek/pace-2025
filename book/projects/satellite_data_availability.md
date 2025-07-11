@@ -24,15 +24,13 @@ TROPOMI data is provided through NASA Earthdata Cloud.
 
 ## SWOT
 
-Consider a synergistic use of Surface Water and Ocean Topography [(SWOT)] data. The SWOT mission is a joint NASA–CNES satellite launched in December 2022 and provides wide-swath altimetry data to measure global surface water levels and ocean surface topography. SWOT data is provided through NASA Earthdata Cloud. 
+Consider a synergistic use of Surface Water and Ocean Topography ([SWOT]) data. The SWOT mission is a joint NASA–CNES satellite launched in December 2022 and provides wide-swath altimetry data to measure global surface water levels and ocean surface topography. SWOT data is provided through NASA Earthdata Cloud. 
 
 ## Landsat 
 
 Consider a synergistic use of [Landsat] data. Landsat is a joint program between NASA and the U.S. Geological Survey (USGS) that collects multispectral moderate-resolution imagery (~30 m) across visible, near-infrared, and thermal bands. Landsat data is provided through NASA Earthdata Cloud. 
 
-
-<br> 
-Other potential synergistic data uses could include data products from the Ice, Cloud, and land Elevation Satellite 2 [(ICESat-2)] mission or the Earth Surface Mineral Dust Source Investigation [(EMIT)] mission. These data products are provided through NASA Earthdata Cloud. 
+Other potential synergistic data uses could include data products from the Ice, Cloud, and land Elevation Satellite 2 ([ICESat-2]) mission or the Earth Surface Mineral Dust Source Investigation ([EMIT]) mission. These data products are provided through NASA Earthdata Cloud.
 
 
 [data products]: https://pace.oceansciences.org/data.htm
@@ -42,7 +40,7 @@ Other potential synergistic data uses could include data products from the Ice, 
 [EarthCARE]: https://earth.esa.int/eogateway/missions/earthcare
 [EarthCARE Product Data Handbook]: https://earthcarehandbook.earth.esa.int/
 [TROPOMI]: https://www.tropomi.eu/
-[(SWOT)]: https://swot.jpl.nasa.gov/
+[SWOT]: https://swot.jpl.nasa.gov/
 [Landsat]: https://science.nasa.gov/mission/landsat/
-[(ICESat-2)]: https://icesat-2.gsfc.nasa.gov/
-[(EMIT)]: https://earth.jpl.nasa.gov/emit/
+[ICESat-2]: https://icesat-2.gsfc.nasa.gov/
+[EMIT]: https://earth.jpl.nasa.gov/emit/
