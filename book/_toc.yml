@@ -16,7 +16,9 @@ parts:
 - caption: Presentations
   chapters:
     - file: presentations/lectures
-    - file: presentations/tutorials
+      title: Science
+    - file: presentations/notebooks
+      title: Code
 #       sections:
 #         - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
 #           title: CryoCloud Overview
@@ -38,7 +40,6 @@ parts:
 #           title: Machine Learning
 #         - url: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
 #           title: Reproducible Containers
-    - file: presentations/notebooks
 - caption: Projects
   chapters:
     - file: projects/overview
