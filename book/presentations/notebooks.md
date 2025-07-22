@@ -16,6 +16,11 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Earthaccess and Earthdata Cloud | | | |
+| Earthaccess and Earthdata Cloud<sup>*</sup> | | | |
+| Satellite Data Visualization<sup>*</sup>    | | | |
+| SeaDAS Processing Tools<sup>*</sup>         | | | |
+| Distributed Processing<sup>*</sup>          | | | |
+| In-Situ Matchups                            | | | |
+| Machine Learning with Satellite Data        | | | |
 
 [Ocean Color Help Hub]: https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/
