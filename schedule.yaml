@@ -55,7 +55,7 @@ tabs:
     time: "Closes @ 18:30"
   - title: Evening Activity
     description: Joy of Painting
-    time: "19:00"
+    time: "18:30"
     leads:
     - Bob Ross
 - title: Day 2
@@ -108,7 +108,7 @@ tabs:
     time: "Closes @ 18:30"
   - title: Evening Activity
     description: Fireside Chat with NASA Program Managers
-    time: "19:00"
+    time: "18:30"
 - title: Day 3
   date: Tuesday
   contents:
@@ -210,7 +210,7 @@ tabs:
     time: "Closes @ 18:30"
   - title: Evening Activity
     description: Nerd Nite
-    time: "19:00"
+    time: "18:30"
 - title: Day 5
   date: Thursday
   contents:
@@ -256,4 +256,4 @@ tabs:
     time: "Closes @ 18:30"
   - title: Evening Activity
     description: Trivia
-    time: "19:00"
+    time: "18:30"
