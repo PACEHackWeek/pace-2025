@@ -6,7 +6,7 @@ The {term}`JupyterHub` accessible to hackweek participants has all the necessary
 Recordings, where indicated, will be linked here as they become available.
 You can find additional resources that will help you analyze PACE data on the [Ocean Color Help Hub].
 
-- Those titles marked with an "*" below will be presented during the hackweek as step-by-step tutorials, so participants can follow along on 
+- Those titles marked with an "*" below will be presented during the hackweek as step-by-step tutorials, so participants can follow along.
 - A selection of additional notebooks will be presented during the hackweek, with mentors giving an overview and highlights without walking through the entire notebook.
 - The remaining notebooks demonstrate additional use cases involving PACE data products.
 
