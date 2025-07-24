@@ -17,11 +17,29 @@ We encourage you to seek out the mentor who authored notebooks with any question
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Earthaccess and Earthdata Cloud<sup>*</sup> | | | |
-| Satellite Data Visualization<sup>*</sup>    | | | |
-| SeaDAS Processing Tools<sup>*</sup>         | | | |
-| Distributed Processing<sup>*</sup>          | | | |
-| In-Situ Matchups                            | | | |
-| Machine Learning with Satellite Data        | | | |
+| Earthaccess & Earthdata Cloud<sup>*</sup>    |x|x|x|
+| Collaborative Coding, for Science!           |x| |x|
+| Visualizing Satellite Data<sup>*</sup>       | |x|x|
+| Matchups of in-situ Data With Satellite Data | |x|x|
+| SeaDAS Processing Tools<sup>*</sup>          | |x|x|
+| Machine Learning with Satellite Data         | |x|x|
+| Distributed Processing<sup>*</sup>           | |x|x|
+| Data Products from Multi-Angle Polarimeters  | |x|x|
+| Environments for Reusable Projects           |x| |x|
+| --- | --- | --- | --- |
+| Machine Learning Cloud Mask                  | |x| |
+| PACE Land Products                           | |x| |
+| Projection and GeoTIFFs                      | |x| |
+| NO2 from OCI                                 | |x| |
+| GPig Algorithm                               | |x| |
+| Running GIOP w/ OCSSW                        | |x| |
+| L2 SPEXone and maybe HARP2                   | |x| |
+| --- | --- | --- | --- |
+| Level-2 with xr.Datatree                     | |x| |
+| VirtualiZarr                                 | |x| |
+| SWOT and PACE                                | |x| |
+| EMIT and PACE                                | |x| |
+| EarthCARE tutorial?                          | |x| |
+| github.com:ryan-edward-oshea/MDN_tutorials   | |x| |
 
 [Ocean Color Help Hub]: https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/
