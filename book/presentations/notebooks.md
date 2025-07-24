@@ -2,15 +2,13 @@
 
 Hackweek mentors have assembled resources for participants in the notebooks below.
 Some titles have links to slides that give an overview or background on the accompanying notebook.
+The {term}`JupyterHub` accessible to hackweek participants has all the necessary software to run any of the notebooks below.
+Recordings, where indicated, will be linked here as they become available.
 You can find additional resources that will help you analyze PACE data on the [Ocean Color Help Hub].
 
-Those titles marked with an "*" below will be presented during the hackweek as step-by-step tutorials, so participants can follow along on the {term}`JupyterHub` provided.
-This compute environment has all the necessary software installed to run any of the notebooks below.
-Recordings of these "code tutorial" sessions will be linked here as they become available.
-
-A selection of additional notebooks will be presented during the hackweek, with mentors giving an overview and highlights without walking through the entire notebook.
-Those notebooks, and all the remaining notebooks below, demonstrate a lot of uses involving PACE data products.
-Recordings of these "code demo" sessions will be linked here as they become available.
+- Those titles marked with an "*" below will be presented during the hackweek as step-by-step tutorials, so participants can follow along on 
+- A selection of additional notebooks will be presented during the hackweek, with mentors giving an overview and highlights without walking through the entire notebook.
+- The remaining notebooks demonstrate additional use cases involving PACE data products.
 
 Those titles without an icon under recording are not presented live (and therefore not recorded) during the hackweek.
 We encourage you to seek out the mentor who authored notebooks with any questions you have during the hackweek.
