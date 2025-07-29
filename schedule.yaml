@@ -29,12 +29,11 @@ tabs:
     time: "10:30"
     leads:
     - Anna Windle
-  - title: Code Demo
-    description: Collaborative Coding, for Science!
+  - title: Code Tutorial
+    description: Visualizing Satellite Data
     time: "11:15"
     leads:
-    - Eli Holmes
-    - Ian Carroll
+    - Carina Poulin
   - title: Lunch
     description: "@ True Grits"
     time: "12:00"
@@ -76,10 +75,11 @@ tabs:
     description: Coffee & Tea
     time: "9:45"
   - title: Code Tutorial
-    description: Visualizing Satellite Data
+    description: Collaborative Coding, for Science!
     time: "10:00"
     leads:
-    - Carina Poulin
+    - Eli Holmes
+    - Ian Carroll
   - title: Group Projects
     description: Work Time
     time: "10:45"
