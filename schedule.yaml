@@ -100,6 +100,7 @@ tabs:
     time: "15:45"
     leads:
     - James Allen
+    - Riley Blocker
   - title: Break
     description: Free Time
     time: "16:30"
@@ -148,11 +149,11 @@ tabs:
     description: Work Time
     time: "14:45"
   - title: Code Demo
-    description: Machine Learning with Satellite Data
+    description: Rayleigh Correction for PACE by Machine Learning
     time: "15:45"
     leads:
-    - Kamal Aryal
     - Pengwang Zhai
+    - Kamal Aryal
   - title: Break
     description: Free Time
     time: "16:30"
@@ -200,8 +201,8 @@ tabs:
     description: Data Products from Multi-Angle Polarimeters
     time: "15:45"
     leads:
-    - Meng Gao
     - Sean Foley
+    - Meng Gao
   - title: Break
     description: Free Time
     time: "16:30"
