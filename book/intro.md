@@ -30,6 +30,5 @@ Read more about the teams and results on our [projects] page.
 [logistics]: preliminary/what-to-expect
 [checklist]: preliminary/checklist
 [science]: presentations/lectures
-[code]: presentations/tutorials
-[notebooks]: presentations/notebooks
+[code]: presentations/notebooks
 [projects]: projects/overview
