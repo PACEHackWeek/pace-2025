@@ -5,11 +5,11 @@ The slides and recordings will be linked from this page as they become available
 
 | Speaker | Title | Slides | Recording |
 | :------ | :---- | :----: | :-------: |
-| PACE Mission Overview                                                               | [{fas}`eye;sd-text-light`][jw-slides] | [{fab}`youtube;sd-text-light`][jw-video] |
-| Biodiversity from sPACE: insights from ecological theory                            | [{fas}`eye;sd-text-light`][kb-slides] | [{fab}`youtube;sd-text-light`][kb-video] |
-|                                                                                     | [{fas}`eye;sd-text-light`][bm-slides] | [{fab}`youtube;sd-text-light`][bm-video] |
-|                                                                                     | [{fas}`eye;sd-text-light`][lr-slides] | [{fab}`youtube;sd-text-light`][lr-video] |
-| PACE Terrestrial Products – a New View of Ecosystem Traits, Phenology, and Function | [{fas}`eye;sd-text-light`][fh-slides] | [{fab}`youtube;sd-text-light`][fh-video] |
+| PACE Mission Overview                                                               | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
+| Biodiversity from sPACE: insights from ecological theory                            | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
+| TBD                                                                                 | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
+| TBD                                                                                 | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
+| PACE Terrestrial Products – a New View of Ecosystem Traits, Phenology, and Function | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
 
 [jw-slides]:
 [kb-slides]:

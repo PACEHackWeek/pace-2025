@@ -13,33 +13,14 @@ parts:
     - file: preliminary/what-to-expect
     - file: preliminary/code-of-conduct
     - file: preliminary/checklist
+#         - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
+#           title: CryoCloud Overview
 - caption: Presentations
   chapters:
     - file: presentations/lectures
       title: Science
     - file: presentations/notebooks
       title: Code
-#       sections:
-#         - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
-#           title: CryoCloud Overview
-#         - file: presentations/hackweek/earthdata_cloud_access
-#           title: Earthdata Cloud
-#         - file: presentations/hackweek/satdata_visualization
-#           title: Data Visualization
-#         - file: presentations/hackweek/satellite_insitu_matchups
-#           title: In-situ Matchups
-#         - file: presentations/hackweek/satellite_insitu_matchups_thomas
-#           title: ThoMas
-#         - url: https://docs.google.com/presentation/d/1ylRMdihGg7Fr9cjm1rjggU7Tcc4Zb8MsH0gH2R09RZk/present?usp=sharing
-#           title: Code Collaboration
-#         - file: presentations/hackweek/ocssw_processing
-#           title: OCSSW Processing
-#         - file: presentations/hackweek/dask_gridding
-#           title: Compute with Dask
-#         - file: presentations/hackweek/ml_cloud_mask
-#           title: Machine Learning
-#         - url: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
-#           title: Reproducible Containers
 - caption: Projects
   chapters:
     - file: projects/overview
