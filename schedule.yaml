@@ -119,7 +119,7 @@ tabs:
     description: Announcements & Group Check-in
     time: "8:30"
   - title: Science Lecture
-    description: null
+    description: "When will a cloud start raining?"
     time: "9:00"
     leads:
     - Brent McBride
@@ -169,7 +169,7 @@ tabs:
     description: Announcements & Group Check-in
     time: "8:30"
   - title: Science Lecture
-    description: null
+    description: "Will PACE aerosol products answer the questions surrounding aerosols in climate change?"
     time: "9:00"
     leads:
     - Lorraine Remer
