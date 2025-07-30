@@ -7,7 +7,7 @@ The slides and recordings will be linked from this page as they become available
 | :---- | :----: | :-------: |
 | PACE Mission Overview | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Biodiversity from sPACE: insights from ecological theory | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
-| When will a cloud start raining? | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
+| When will a cloud start raining? PACE polarimetric cloud products may have the answer | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
 | Will PACE aerosol products answer the questions surrounding aerosols in climate change? | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
 | PACE Terrestrial Products&mdash;a New View of Ecosystem Traits, Phenology, & Function | {fas}`eye;sd-text-light` | {fab}`youtube;sd-text-light` |
 
