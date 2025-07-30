@@ -12,7 +12,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| **Earthaccess & Earthdata Cloud**                  |x|x|{fab}`youtube;sd-text-light`|
+| **Earthaccess & Earthdata Cloud**                  |{{ L0 }}|{{ D0 }}|{{ V0 }}|
 | **Visualizing Satellite Data**                     |x|x|{fab}`youtube;sd-text-light`|
 | **Collaborative Coding, for Science!**             |x| |{fab}`youtube;sd-text-light`|
 | *Matchups of in-situ Data With Satellite Data*     |x|x|{fab}`youtube;sd-text-light`|

@@ -20,8 +20,11 @@ parse:
     contact_email: "anna.windledipaola@nasa.gov"
     anon_reporting_url: "https://www.us-ocb.org/about/ocb-program-code-of-conduct"
     project_spreadsheets_url: <a href="https://docs.google.com/spreadsheets/d/1vMjwZMHkr4zlRKyN8WcwCwMBhtX6HHZU9Nn7UZDevY4" target="_blank">Group Projects</a>
+    L0: "{fas}`eye;sd-text-light`"
     L1: "{fas}`eye;sd-text-primary`"
+    D0: "{fas}`download;sd-text-light`"
     D1: "{fas}`download;sd-text-primary`"
+    V0: "{fab}`youtube;sd-text-light`"
     V1: "{fab}`youtube;sd-text-primary`"
   myst_enable_extensions:
     # Defaults
