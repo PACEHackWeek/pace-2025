@@ -26,7 +26,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 | *Environments for Reusable Projects*               |x| |{fab}`youtube;sd-text-light`|
 | Machine Learning Cloud Mask                        | |x| |
 | OCI Land Products                                  | |x| |
-| Projection and GeoTIFFs from Level-2               | |x|[{fab}`youtube;sd-text-primary`][sc-yt]|
+| Projection and GeoTIFFs from Level-2               | |x|[{{ V1 }}][sc-v]|
 | OCI NO<sub>2</sub> Product Preview                 | |x| |
 | Phytoplankton Pigments (GPig) Preview              | |x| |
 | Running GIOP wtih OCSSW                            | |x| |
@@ -42,4 +42,4 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 [Ocean Color Help Hub]: https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/
 
-[sc-yt]: https://www.youtube.com/watch?v=hOu8rPd_x6I&t=970s
+[sc-v]: https://www.youtube.com/watch?v=hOu8rPd_x6I&t=970s
