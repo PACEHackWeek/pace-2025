@@ -63,8 +63,8 @@ For participants wishing to brush up on fundamentals before the event, we recomm
 
 ### Travel
 
-* See UMBC page on the [BWI MARC Schedule] for your public transit option.
-* Taxis, Uber, and Lyft are available from BWI.
+* Please review the "Arrivals & Departures" spreadsheet you received via email for suggested ride-sharing.
+* Taxis, Uber, and Lyft are available from BWI and the BWI MARC/Amtrack station.
 
 ### Campus Map
 
