@@ -221,7 +221,7 @@ tabs:
     description: Announcements & Group Check-in
     time: "8:30"
   - title: Science Lecture
-    description: "PACE Terrestrial Products – a New View of Ecosystem Traits, Phenology, and Function"
+    description: "PACE Terrestrial Products&mdash;a New View of Ecosystem Traits, Phenology, and Function"
     time: "9:00"
     leads:
     - Fred Huemmrich 
