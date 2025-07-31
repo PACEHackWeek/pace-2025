@@ -45,3 +45,7 @@ On a JupyterHub? Try viewing at [/user-redirect/proxy/8000/](/user-redirect/prox
 ```bash
 python -m http.server -d book/_build/html/
 ```
+
+```bash
+
+```
