@@ -135,7 +135,7 @@ You will need to use that passphrase, so treat it like any other password.
 ssh-keygen -t ed25519 -C "jovyan@cryocloud"
 ```
 
-Everytime you restart your JupyterLab server, you need to unlock your private key before using `git` commands or the Git panel in JupyterLab. 
+Everytime you restart your JupyterLab server, you need to unlock your private key before using the Git panel in JupyterLab.
 
 ```shell
 ssh-add ~/.ssh/id_ed25519
