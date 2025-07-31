@@ -1,54 +1,37 @@
-# PACE Hackweek JupyterBook
+# PACE Data Hackweek 2025
 
-This the JupyterBook content for the PACE Hackweek 2025.
+This the conent of the landing page and JupyterBook for the PACE Data Hackweek 2025.
 
 ![image](https://github.com/noaa-nwfsc/Hackweek-2024-book/assets/2545978/8f4eda29-eec2-4263-bc1f-600ef5567996)
 
 ## Users
 
-This repo is the source for our website: https://pacehackweek.github.io/pace-2025/. Go check it out!
+This repo is the source for our [website](https://pacehackweek.github.io/pace-2025/). Go check it out!
 
 ## Developers
+
+This repo came from a template and therefore has extra and complicated stuff!
+One change made to the template is in `scripts/build_resources.sh`, which now cleans out the "_sources".
 
 ### Changes other than notebooks
 
 1. Clone this repo, or pull updates.
 1. Make the necessary changes, and commit them to a new branch, and push.
 1. Create a PR and add the `preview` label.
-1. A link to a website preview will appear in the comments.
-   Check to ensure that it looks good and make add commits as necessary.
-1. Once the PR is reviewed by another team member, it can be merged.
+1. A link to a website preview will appear in the PR comments.
+   Check to ensure the website preview looks good and add commits as necessary.
+1. Request a review from another hackweek mentor and merge once approved!
 
 ### New or updated notebooks
 
 1. Clone this repo, or pull updates.
-1. Clone the oceandata-noteboooks in an adjacent directory, and follow those README instructions to build that book.
-1. Copy updates to the executed notebooks from the src/_build folder of the oceandata-notebooks repo to the book in this repo.
-   ```
-   rsync -a ../oceandata-notebooks/src/_build/jupyter_execute/notebooks/hackweek/ book/presentations/hackweek/
-   ```
-1. Commit to a new branch and proceed as above with a PR.
-
-### Local preview
-
-Install the tools you need.
-
-```shell
-uv tool install --with jinja_markdown cookiecutter
-uv tool install jupyter-book # probably <2?
-```
-
-Build the HTML.
-
-```shell
-./scripts/build_resources.sh
-```
-
-Run a local web server.
-
-```shell
-python -m http.server -d book/_build/html/
-```
+1. Clone the oceandata-noteboooks in an adjacent directory and follow the CONTRIBUTING section on rendering the HTML, which
+   updates the executed notebooks in that book's `_build` directory.
+1. Run the steps in WORKFLOW.md to:
+  - link to the executed notebooks
+  - create a conda environment
+  - generate a preview. 
+1. Commit to a new branch, commit changed notebooks (yes!, ugh!) and proceed as above with a PR, likely skipping the review!
 
 ## Template courtesy of (by permission) eScience University of Washington
 
