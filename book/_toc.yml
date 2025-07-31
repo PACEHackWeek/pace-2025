@@ -13,6 +13,7 @@ parts:
     - file: preliminary/what-to-expect
     - file: preliminary/code-of-conduct
     - file: preliminary/checklist
+    - file: preliminary/git
 #         - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
 #           title: CryoCloud Overview
 - caption: Presentations
