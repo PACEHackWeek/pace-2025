@@ -131,12 +131,6 @@ You will need to use that passphrase often, so treat it like any other password.
 ssh-keygen -t ed25519 -C "jovyan@cryocloud"
 ```
 
-Everytime you restart your JupyterLab server, you need to unlock your private key before using the Git panel in JupyterLab.
-
-```shell
-ssh-add ~/.ssh/id_ed25519
-```
-
 Next, copy the string printed out by the Terminal command `cat ~/.ssh/id_ed25519.pub`.
 That is the public key you must share with GitHub.
 
@@ -144,6 +138,16 @@ That is the public key you must share with GitHub.
 1. Click the "**New SSH key**" button.
 1. Ignore the "**Title**" field.
 1. Paste the entire `~/.ssh/id_ed25519.pub` contents in the "**Key**" field and click "**Add SSH key**".
+
+Now unlock your private key, using your passphrase, to test out your authentication.
+
+```{attention}
+Everytime you restart your JupyterLab server, you need to unlock your private key in Terminal **before** using the Git panel in JupyterLab.
+```
+
+```shell
+ssh-add
+```
 
 Now verify that your key is unlocked and copied to GitHub by trying the following back in your Terminal.
 
