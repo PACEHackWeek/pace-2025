@@ -4,15 +4,16 @@ root: intro
 format: jb-book
 parts:
 - chapters:
-  - url: https://PACEHackWeek.github.io/pace-2025/index.html?jump_to=schedule
+  - url: https://pacehackweek.github.io/pace-2025/index.html?jump_to=schedule
     title: Schedule
-  - url: https://PACEHackWeek.github.io/pace-2025/index.html?jump_to=team
+  - url: https://pacehackweek.github.io/pace-2025/index.html?jump_to=team
     title: Team
 - caption: Preparation
   chapters:
     - file: preliminary/what-to-expect
     - file: preliminary/code-of-conduct
     - file: preliminary/checklist
+    - file: preliminary/git
 #         - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
 #           title: CryoCloud Overview
 - caption: Presentations
