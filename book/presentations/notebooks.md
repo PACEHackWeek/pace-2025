@@ -24,8 +24,10 @@ You can find additional resources that will help you analyze PACE data on the [O
 | **Orientation to Level-2 Generator**                        |          | {{ d0 }}          | {{ v0 }}          |
 | *Rayleigh Correction for PACE by Machine Learning*          | {{ l0 }} | {{ d0 }}          | {{ v0 }}          |
 | **Distributed Processing**                                  |          | {{ d0 }}          | {{ v0 }}          |
-| *SPEXone and HARP2 at Level-1C*                             |          | {{ d0 }}          | {{ v0 }}          |
-| *SPEXone and HARP2 Aerosols at Level-2*                     |          | {{ d0 }}          | {{ v0 }}          |
+| *HARP2 at Level-1C*                                         |          | {{ d0 }}          | {{ v0 }}          |
+| [*SPEXone at Level-1C*][s1c-n]                              |          | {{ d0 }}          | {{ v0 }}          |
+| *HARP2 Aerosols at Level-2*                                 |          | {{ d0 }}          | {{ v0 }}          |
+| *SPEXone Aerosols at Level-2*                               |          | {{ d0 }}          | {{ v0 }}          |
 | *Environments for Reusable Projects*                        | {{ l0 }} |                   | {{ v0 }}          |
 | Machine Learning Cloud Mask                                 |          | {{ d0 }}          |                   |
 | [OCI Land Products][olp-n]                                  |          | {{ d0 }}          |                   |
@@ -46,5 +48,6 @@ You can find additional resources that will help you analyze PACE data on the [O
 [eec-n]: notebooks/earthdata_cloud_access
 [lsp-n]: notebooks/modis_lombscargle_periodogram
 [olp-n]: notebooks/oci_terrestrial_data
+[s1c-n]: notebooks/spexone_basic_visualizations
 
 [pgt-v]: https://www.youtube.com/watch?v=hOu8rPd_x6I&t=970s
