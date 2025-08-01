@@ -81,11 +81,7 @@ For this hackweek, check the full repo scope as shown in this screenshot:
 
 To use the PAT, you need Git to do something that requires authentication, such as pushing to a repository or cloning a private repository.
 These actions will prompt for credentials.
-**Use the PAT instead of your GitHub password**.
-
-If you use the Git panel in JupyterLab, be sure to check "**Save my login temporarily**"!
-
-![git gui credentials](../img/git-gui-credentials.png)
+**Use a PAT instead of your GitHub password**.
 
 ```{attention}
 The Terminal prompt for the `Password:` will not show any characters that are entered
@@ -125,11 +121,11 @@ showing the Terminal way just described.
 
 #### Option 3: SSH Key Pair
 
-This method generates a private and public SSH key in your personal `~/.ssh` folder.
-Note that your secrets may not be as secure with your personal folder residing in the commercial cloud, so we recommend using a passphrase with your SSH key pair.
+This method relies on a private cryptographic key in your personal `~/.ssh` folder, and a paired public key shared with GitHub.
+Note that any secrets may not be totally secure in the commercial cloud, so we recommend using a passphrase with your SSH key pair.
 
 To generate the pair, run the following Terminal command, press enter to accept the default location, and then create a passphrase when prompted.
-You will need to use that passphrase, so treat it like any other password.
+You will need to use that passphrase often, so treat it like any other password.
 
 ```shell
 ssh-keygen -t ed25519 -C "jovyan@cryocloud"
@@ -141,8 +137,8 @@ Everytime you restart your JupyterLab server, you need to unlock your private ke
 ssh-add ~/.ssh/id_ed25519
 ```
 
-Next, copy the string printed by the Terminal command `cat ~/.ssh/id_ed25519.pub`.
-That is the public key you can share with GitHub.
+Next, copy the string printed out by the Terminal command `cat ~/.ssh/id_ed25519.pub`.
+That is the public key you must share with GitHub.
 
 1. Go to "Settings" > "SSH and GPG keys" in your GitHub [profile](https://github.com/settings/keys).
 1. Click the "**New SSH key**" button.
