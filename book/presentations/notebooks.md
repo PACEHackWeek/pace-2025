@@ -50,7 +50,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 [vsd-n]: notebooks/oci_data_visualization
 [vsd-l]: https://drive.usercontent.google.com/download?id=1lv10jP-jKJUh4JCxpse0oZyErMJurMYZ&export=download&authuser=0
-[vsd-d]: /pace-2025/_sources/presentations/notebooks/oci_data_visualization.ipynb
+[vsd-d]: nb:oci_data_visualization.ipynb
 
 [lsp-n]: notebooks/modis_lombscargle_periodogram
 [opt-n]: notebooks/oci_ocssw_processing_overview
