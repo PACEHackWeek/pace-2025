@@ -18,6 +18,7 @@ parts:
 #           title: CryoCloud Overview
 - caption: Presentations
   chapters:
+    - file: presentations/orientation
     - file: presentations/lectures
       title: Science
     - file: presentations/notebooks
