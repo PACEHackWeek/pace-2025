@@ -32,7 +32,7 @@ parse:
     https: null
     http: null
     mailto: null
-    nb: ../../_sources/presentations/notebooks/{{path}}
+    nb: /pace-2025/_sources/presentations/notebooks/{{path}}
 execute:
   execute_notebooks: off
 latex:
