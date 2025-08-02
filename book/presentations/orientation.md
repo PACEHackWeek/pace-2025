@@ -2,9 +2,9 @@
 
 ```{admonition} Let's Get Started
 :class: note
-- View in browser: {{ l1 }}
-- Download link: {{ d1 }}
-- Recording Available {{ v1 }}
+- View slides {{ l1 }}
+- Download content {{ d1 }}
+- Recording available {{ v1 }}
 ```
 
 | Title | Slides | Recording |

@@ -28,6 +28,11 @@ parse:
     - colon_fence
     # extras
     - html_image
+  myst_url_schemes:
+    - http
+    - https
+    - mailto
+    - nb: "../../_sources/{{path}}#{{fragment}}"
 execute:
   execute_notebooks: off
 latex:
