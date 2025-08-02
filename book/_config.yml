@@ -49,7 +49,7 @@ sphinx:
         - as_version: 4
         - false # setting to the default `true` seems to break math, `false` uses MyST instead of Commmonmark
 html:
-  announcement: "Content under development, check back for updates!"
+  # announcement: "Content under development, check back for updates!"
   use_edit_page_button: true
   use_issues_button: true
   use_repository_button: true
