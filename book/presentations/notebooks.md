@@ -15,9 +15,9 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-d]{.external download} | {{ v0 }}          |
-| [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}][vsd-d] | {{ v0 }}          |
-| **Collaborative Coding, for Science!**                      | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
+| [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}](../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb){.external} | {{ v0 }}          |
+| [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}](../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb){.external download} | {{ v0 }}          |
+| **Collaborative Coding, for Science!**                      | {{ l0 }}          | [{{ d0 }}](../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb){.external download="value"} | {{ v0 }}          |)          | {{ v0 }}          |
 | *Matchups of in-situ Data With Satellite Data*              | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | [*Periodogram Analysis of Ocean Color Data*][lsp-n]         | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | [**OCSSW Processing Tools**][opt-n]                         |                   | {{ d0 }}          | {{ v0 }}          |
