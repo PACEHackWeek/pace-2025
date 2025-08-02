@@ -28,11 +28,7 @@ parse:
     - colon_fence
     # extras
     - html_image
-  myst_url_schemes:
-    - http
-    - https
-    - mailto
-    - ftp
+    - attrs_inline
 execute:
   execute_notebooks: off
 latex:

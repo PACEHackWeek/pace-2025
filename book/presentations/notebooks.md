@@ -46,11 +46,11 @@ You can find additional resources that will help you analyze PACE data on the [O
 -->
 [eec-n]: notebooks/earthdata_cloud_access
 [eec-l]: https://docs.google.com/presentation/d/1DmdHELzkqIwIB3mC7AbHSKUJHt7CSHNgV5X1aDeCppw/present?slide=id.p1
-[eec-d]: nb:presentations/notebooks/earthdata_cloud_access.ipynb
+[eec-d]: ../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb
 
 [vsd-n]: notebooks/oci_data_visualization
 [vsd-l]: https://drive.usercontent.google.com/download?id=1lv10jP-jKJUh4JCxpse0oZyErMJurMYZ&export=download&authuser=0
-[vsd-d]: https://pacehackweek.github.io/pace-2025/_sources/presentations/notebooks/oci_data_visualization.ipynb
+[vsd-d]: ../../_sources/presentations/notebooks/oci_data_visualization.ipynb{.external download}
 
 [lsp-n]: notebooks/modis_lombscargle_periodogram
 [opt-n]: notebooks/oci_ocssw_processing_overview
