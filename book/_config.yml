@@ -28,7 +28,11 @@ parse:
     - colon_fence
     # extras
     - html_image
-    - attrs_inline
+  myst_url_schemes:
+    https: null
+    http: null
+    mailto: null
+    nb: ../../_sources/presentations/notebooks/{{path}}
 execute:
   execute_notebooks: off
 latex:

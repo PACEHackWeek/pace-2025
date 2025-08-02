@@ -15,9 +15,9 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}](../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb){.external} | {{ v0 }}          |
-| [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}](../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb){.external download} | {{ v0 }}          |
-| **Collaborative Coding, for Science!**                      | {{ l0 }}          | [{{ d0 }}](../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb){.external download="value"} | {{ v0 }}          |)          | {{ v0 }}          |
+| [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-l] | {{ v0 }}          |
+| [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}][vsd-d] | {{ v0 }}          |
+| **Collaborative Coding, for Science!**                      | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | *Matchups of in-situ Data With Satellite Data*              | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | [*Periodogram Analysis of Ocean Color Data*][lsp-n]         | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | [**OCSSW Processing Tools**][opt-n]                         |                   | {{ d0 }}          | {{ v0 }}          |
@@ -46,11 +46,11 @@ You can find additional resources that will help you analyze PACE data on the [O
 -->
 [eec-n]: notebooks/earthdata_cloud_access
 [eec-l]: https://docs.google.com/presentation/d/1DmdHELzkqIwIB3mC7AbHSKUJHt7CSHNgV5X1aDeCppw/present?slide=id.p1
-[eec-d]: ../../_sources/presentations/notebooks/earthdata_cloud_access.ipynb
+[eec-d]: nb:earthdata_cloud_access.ipynb
 
 [vsd-n]: notebooks/oci_data_visualization
 [vsd-l]: https://drive.usercontent.google.com/download?id=1lv10jP-jKJUh4JCxpse0oZyErMJurMYZ&export=download&authuser=0
-[vsd-d]: ../../_sources/presentations/notebooks/oci_data_visualization.ipynb {.external download}
+[vsd-d]: nb:oci_data_visualization.ipynb
 
 [lsp-n]: notebooks/modis_lombscargle_periodogram
 [opt-n]: notebooks/oci_ocssw_processing_overview
