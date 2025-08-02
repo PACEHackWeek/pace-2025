@@ -15,7 +15,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-d] | {{ v0 }}          |
+| [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-d]{.external download} | {{ v0 }}          |
 | [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}][vsd-d] | {{ v0 }}          |
 | **Collaborative Coding, for Science!**                      | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | *Matchups of in-situ Data With Satellite Data*              | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
@@ -50,7 +50,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 [vsd-n]: notebooks/oci_data_visualization
 [vsd-l]: https://drive.usercontent.google.com/download?id=1lv10jP-jKJUh4JCxpse0oZyErMJurMYZ&export=download&authuser=0
-[vsd-d]: ../../_sources/presentations/notebooks/oci_data_visualization.ipynb{.external download}
+[vsd-d]: ../../_sources/presentations/notebooks/oci_data_visualization.ipynb {.external download}
 
 [lsp-n]: notebooks/modis_lombscargle_periodogram
 [opt-n]: notebooks/oci_ocssw_processing_overview
