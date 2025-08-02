@@ -68,24 +68,6 @@ We ask you to do this on every use because keeping a session active uses AWS res
 If you forget this step, the server will shut down automatically after 90 min of no use.
 *To save our community money, when you are finished working for the day it is really helpful for you to manually stop your server before logging out of your JupyterHub session.*
 
-<!--
-It can take several minutes for new servers to launch on the cloud.
-Once things are spun up, you will see your very own instance of a JupyterLab environment.
-
-Logging out will **NOT** cause any files under `/home/jovyan` to be deleted. It is equivalent to turning off your desktop computer at the end of the day.
-
-During the PACE Hackweek, you will see the "PACE Data Hackweek 2025" option on the "Server Options" page after logging in.
-
-![server_options](../img/server_options.png)
-
-<a id="byo-image"></a>After the Hackweek, that short-cut will be removed. You can continue using the same Docker image if you enter it manually. When you get to "Server Options" page after logging in, select "Bring your own image" option and enter: `quay.io/pacehackweek/pace-2024:latest` into the "Custom image" field.
-
-![Docker_image](../img/Docker_image_instructions.png)
-
-You will have access to your own virtual drive space under the `/home/jovyan` directory. No other users will be able to see or access your data files. You can add/remove/edit files in your virtual drive space. You will also have access to the `shared` folder (read-only access), and to the *`shared-public`* folder (read and write access). These are shared spaces so please make sure not to delete files from here unless they are yours.
-
--->
-
 ## Slack
 
 You will receive a Slack Workspace invite after you sign up for CryoCloud.
