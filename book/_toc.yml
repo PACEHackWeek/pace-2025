@@ -4,9 +4,9 @@ root: intro
 format: jb-book
 parts:
 - chapters:
-  - url: https://PACEHackWeek.github.io/pace-2025/index.html?jump_to=schedule
+  - url: https://pacehackweek.github.io/pace-2025/index.html?jump_to=schedule
     title: Schedule
-  - url: https://PACEHackWeek.github.io/pace-2025/index.html?jump_to=team
+  - url: https://pacehackweek.github.io/pace-2025/index.html?jump_to=team
     title: Team
 - caption: Preparation
   chapters:
