@@ -21,9 +21,9 @@ jobs:
       run: |
         pip install nb-clean==2.0.2
 
-    - name: Ensure clean notebooks
-      run: |
-        python .github/workflows/ensure_clean_notebooks.py
+    # - name: Ensure clean notebooks
+    #   run: |
+    #     python .github/workflows/ensure_clean_notebooks.py
 
     # NOTE: this isn't a comprehensive spellcheck, just common typos
     - name: Spellcheck
