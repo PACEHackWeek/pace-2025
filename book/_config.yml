@@ -32,7 +32,7 @@ parse:
     - http
     - https
     - mailto
-    - nb: "../../_sources/{{path}}#{{fragment}}"
+    - ftp
 execute:
   execute_notebooks: off
 latex:
