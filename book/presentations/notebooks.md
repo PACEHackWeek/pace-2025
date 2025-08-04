@@ -18,21 +18,21 @@ You can find additional resources that will help you analyze PACE data on the [O
 | [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-d] | {{ v0 }}          |
 | [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}][vsd-d] | {{ v0 }}          |
 | **Collaborative Coding, for Science!**                      | [{{ l1 }}][ccs-l] | [{{ d1 }}][ccs-d] | {{ v0 }}          |
-| *Matchups of in-situ Data With Satellite Data*              | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
-| [*Periodogram Analysis of Ocean Color Data*][lsp-n]         | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
-| [**OCSSW Processing Tools**][opt-n]                         |                   | {{ d0 }}          | {{ v0 }}          |
+| [*Matchups of in-situ Data With Satellite Data*][mup-n]     | {{ l0 }}          | [{{ d1 }}][mup-d] | {{ v0 }}          |
+| [*Periodogram Analysis of Ocean Color Data*][lsp-n]         |                   | [{{ d1 }}][lsp-d] | {{ v0 }}          |
+| [**OCSSW Processing Tools**][opt-n]                         |                   | [{{ d1 }}][opt-d] | {{ v0 }}          |
 | **Orientation to Level-2 Generator**                        |                   | {{ d0 }}          | {{ v0 }}          |
-| *Rayleigh Correction for PACE by Machine Learning*          | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
+| *Rayleigh Correction for PACE by Machine Learning*          | [{{ l1 }}][mlr-l] | {{ d0 }}          | {{ v0 }}          |
 | **Distributed Processing**                                  |                   | {{ d0 }}          | {{ v0 }}          |
-| [*HARP2 at Level-1C*][h1c-n]                                |                   | [{{ d0 }}][h1c-d] | {{ v0 }}          |
-| [*SPEXone at Level-1C*][s1c-n]                              |                   | [{{ d0 }}][s1c-d] | {{ v0 }}          |
-| [*HARP2 Aerosols at Level-2*][ha2-n]                        |                   | [{{ d0 }}][ha2-d] | {{ v0 }}          |
-| [*SPEXone Aerosols at Level-2*][sa2-n]                      |                   | [{{ d0 }}][sa2-d] | {{ v0 }}          |
+| [*HARP2 at Level-1C*][h1c-n]                                |                   | [{{ d1 }}][h1c-d] | {{ v0 }}          |
+| [*SPEXone at Level-1C*][s1c-n]                              |                   | [{{ d1 }}][s1c-d] | {{ v0 }}          |
+| [*HARP2 Aerosols at Level-2*][ha2-n]                        |                   | [{{ d1 }}][ha2-d] | {{ v0 }}          |
+| [*SPEXone Aerosols at Level-2*][sa2-n]                      |                   | [{{ d1 }}][sa2-d] | {{ v0 }}          |
 | *Environments for Reusable Projects*                        | {{ l0 }}          |                   | {{ v0 }}          |
-| Machine Learning Cloud Mask                                 |                   | {{ d0 }}          |                   |
+| [Machine Learning Cloud Mask][mlc-n]                        |                   | [{{ d1 }}][mlc-d] |                   |
 | [OCI Land Products][olp-n]                                  |                   | {{ d0 }}          |                   |
 | [Projection and GeoTIFFs from Level-2][rio-n]               |                   | {{ d0 }}          | [{{ v1 }}][rio-v] |
-| [OCI NO<sub>2</sub> Product Preview][no2-n]                 |                   | {{ d0 }}          |                   |
+| [OCI NO<sub>2</sub> Product Preview][no2-n]                 |                   | [{{ d1 }}][no2-d] |                   |
 | Phytoplankton Pigments (GPig) Preview                       |                   | {{ d0 }}          |                   |
 | Running GIOP wtih OCSSW                                     |                   | {{ d0 }}          |                   |
 
@@ -45,18 +45,26 @@ You can find additional resources that will help you analyze PACE data on the [O
 (???) github.com:ryan-edward-oshea/MDN_tutorials
 -->
 [eec-n]: notebooks/earthdata_cloud_access
-[eec-l]: https://docs.google.com/presentation/d/1DmdHELzkqIwIB3mC7AbHSKUJHt7CSHNgV5X1aDeCppw/present?slide=id.p1
+[eec-l]: https://docs.google.com/presentation/d/1DmdHELzkqIwIB3mC7AbHSKUJHt7CSHNgV5X1aDeCppw/present
 [eec-d]: nb:earthdata_cloud_access.ipynb
 
 [vsd-n]: notebooks/oci_data_visualization
 [vsd-l]: https://drive.usercontent.google.com/download?id=1lv10jP-jKJUh4JCxpse0oZyErMJurMYZ&export=download&authuser=0
 [vsd-d]: nb:oci_data_visualization.ipynb
 
-[ccs-l]: https://docs.google.com/presentation/d/1e5W_1MJsYemscRiRemVsGmc9KhAMD3supzhzDAarxLI/present?slide=id.p1
+[ccs-l]: https://docs.google.com/presentation/d/1e5W_1MJsYemscRiRemVsGmc9KhAMD3supzhzDAarxLI/present
+[ccs-d]: nb:blue-marble.ipynb
+
+[mup-n]: notebooks/satellite_insitu_matchups
+[mup-d]: nb:satellite_insitu_matchups.ipynb
 
 [lsp-n]: notebooks/modis_lombscargle_periodogram
+[lsp-d]: nb:modis_lombscargle_periodogram.ipynb
 
 [opt-n]: notebooks/oci_ocssw_processing_overview
+[opt-d]: nb:oci_ocssw_processing_overview.ipynb
+
+[mlr-l]: https://docs.google.com/presentation/d/1wUHsZke7bQ1oW5nAaZKVTqNI8H5sP_Ar/present
 
 [h1c-n]: notebooks/harp2_basic_visualizations
 [h1c-d]: nb:harp2_basic_visualizations.ipynb
@@ -68,7 +76,10 @@ You can find additional resources that will help you analyze PACE data on the [O
 [ha2-d]: nb:harp2_l2_aerosol_product.ipynb
 
 [sa2-n]: notebooks/spexone_l2_aerosol_product
-[sa2-n]: nb:spexone_l2_aerosol_product.ipynb
+[sa2-d]: nb:spexone_l2_aerosol_product.ipynb
+
+[mlc-n]: notebooks/ml_cloud_mask
+[mlc-d]: nb:ml_cloud_mask.ipynb
 
 [olp-n]: notebooks/oci_terrestrial_data
 
@@ -76,3 +87,4 @@ You can find additional resources that will help you analyze PACE data on the [O
 [rio-v]: https://www.youtube.com/watch?v=hOu8rPd_x6I&t=970s
 
 [no2-n]: notebooks/oci_no2
+[no2-d]: nb:oci_no2.ipynb
