@@ -17,17 +17,17 @@ You can find additional resources that will help you analyze PACE data on the [O
 | :---- | :----: | :------: | :-------: |
 | [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-d] | {{ v0 }}          |
 | [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}][vsd-d] | {{ v0 }}          |
-| **Collaborative Coding, for Science!**                      | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
+| **Collaborative Coding, for Science!**                      | [{{ l1 }}][ccs-l] | [{{ d1 }}][ccs-d] | {{ v0 }}          |
 | *Matchups of in-situ Data With Satellite Data*              | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | [*Periodogram Analysis of Ocean Color Data*][lsp-n]         | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | [**OCSSW Processing Tools**][opt-n]                         |                   | {{ d0 }}          | {{ v0 }}          |
 | **Orientation to Level-2 Generator**                        |                   | {{ d0 }}          | {{ v0 }}          |
 | *Rayleigh Correction for PACE by Machine Learning*          | {{ l0 }}          | {{ d0 }}          | {{ v0 }}          |
 | **Distributed Processing**                                  |                   | {{ d0 }}          | {{ v0 }}          |
-| *HARP2 at Level-1C*                                         |                   | {{ d0 }}          | {{ v0 }}          |
-| [*SPEXone at Level-1C*][s1c-n]                              |                   | {{ d0 }}          | {{ v0 }}          |
-| [*HARP2 Aerosols at Level-2*][ha2-n]                        |                   | {{ d0 }}          | {{ v0 }}          |
-| [*SPEXone Aerosols at Level-2*][sa2-n]                      |                   | {{ d0 }}          | {{ v0 }}          |
+| [*HARP2 at Level-1C*][h1c-n]                                |                   | [{{ d0 }}][h1c-d] | {{ v0 }}          |
+| [*SPEXone at Level-1C*][s1c-n]                              |                   | [{{ d0 }}][s1c-d] | {{ v0 }}          |
+| [*HARP2 Aerosols at Level-2*][ha2-n]                        |                   | [{{ d0 }}][ha2-d] | {{ v0 }}          |
+| [*SPEXone Aerosols at Level-2*][sa2-n]                      |                   | [{{ d0 }}][sa2-d] | {{ v0 }}          |
 | *Environments for Reusable Projects*                        | {{ l0 }}          |                   | {{ v0 }}          |
 | Machine Learning Cloud Mask                                 |                   | {{ d0 }}          |                   |
 | [OCI Land Products][olp-n]                                  |                   | {{ d0 }}          |                   |
@@ -52,12 +52,27 @@ You can find additional resources that will help you analyze PACE data on the [O
 [vsd-l]: https://drive.usercontent.google.com/download?id=1lv10jP-jKJUh4JCxpse0oZyErMJurMYZ&export=download&authuser=0
 [vsd-d]: nb:oci_data_visualization.ipynb
 
+[ccs-l]: https://docs.google.com/presentation/d/1e5W_1MJsYemscRiRemVsGmc9KhAMD3supzhzDAarxLI/present?slide=id.p1
+
 [lsp-n]: notebooks/modis_lombscargle_periodogram
+
 [opt-n]: notebooks/oci_ocssw_processing_overview
-[olp-n]: notebooks/oci_terrestrial_data
+
+[h1c-n]: notebooks/harp2_basic_visualizations
+[h1c-d]: nb:harp2_basic_visualizations.ipynb
+
 [s1c-n]: notebooks/spexone_basic_visualizations
+[s1c-d]: nb:spexone_basic_visualizations.ipynb
+
 [ha2-n]: notebooks/harp2_l2_aerosol_product
+[ha2-d]: nb:harp2_l2_aerosol_product.ipynb
+
 [sa2-n]: notebooks/spexone_l2_aerosol_product
+[sa2-n]: nb:spexone_l2_aerosol_product.ipynb
+
+[olp-n]: notebooks/oci_terrestrial_data
+
 [rio-n]: notebooks/oci_project_and_format
-[no2-n]: notebooks/oci_no2
 [rio-v]: https://www.youtube.com/watch?v=hOu8rPd_x6I&t=970s
+
+[no2-n]: notebooks/oci_no2

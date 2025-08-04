@@ -34,6 +34,7 @@ for i in \
   oci/oci_project_and_format \
   oci/oci_data_visualization \
   oci/oci_ocssw_processing_overview \
+  harp2/harp2_basic_visualizations \
   harp2/harp2_l2_aerosol_product \
   spexone/spexone_basic_visualizations \
   spexone/spexone_l2_aerosol_product \
@@ -42,8 +43,6 @@ for i in \
 done
 ```
 
-## Preview
-
 ```bash
 conda env create -n book -f conda/conda-linux-64.lock.yml
 ```
@@ -51,6 +50,9 @@ conda env create -n book -f conda/conda-linux-64.lock.yml
 ```bash
 conda run --live-stream -n book ./scripts/build_resources.sh
 ```
+
+## Preview
+
 
 Run the next cell to preview the website.
 Interrupt the kernel (press ◾️ in the toolbar) to stop the server.
