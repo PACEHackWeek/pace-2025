@@ -22,7 +22,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 | [*Periodogram Analysis of Ocean Color Data*][lsp-n]         |                   | [{{ d1 }}][lsp-d] | {{ v0 }}          |
 | [**OCSSW Processing Tools**][opt-n]                         |                   | [{{ d1 }}][opt-d] | {{ v0 }}          |
 | [**Orientation to Level-2 Generator**][l2g-n]               |                   | [{{ d1 }}][l2g-d] | {{ v0 }}          |
-| *Rayleigh Correction for PACE by Machine Learning*          | [{{ l1 }}][mlr-l] | {{ d0 }}          | {{ v0 }}          |
+| [*Rayleigh Correction for PACE by Machine Learning*][mlr-n] | [{{ l1 }}][mlr-l] | [{{ d1 }}][mlr-d] | {{ v0 }}          |
 | **Distributed Processing**                                  |                   | {{ d0 }}          | {{ v0 }}          |
 | [*HARP2 at Level-1C*][h1c-n]                                |                   | [{{ d1 }}][h1c-d] | {{ v0 }}          |
 | [*SPEXone at Level-1C*][s1c-n]                              |                   | [{{ d1 }}][s1c-d] | {{ v0 }}          |
@@ -70,6 +70,8 @@ You can find additional resources that will help you analyze PACE data on the [O
 [l2g-d]: nb:oci_ocssw_l2gen.ipynb
 
 [mlr-l]: https://docs.google.com/presentation/d/1wUHsZke7bQ1oW5nAaZKVTqNI8H5sP_Ar/present
+[mlr-n]: notebooks/rayleigh_correction
+[mlr-d]: nb:rayleigh_correction.ipynb
 
 [h1c-n]: notebooks/harp2_basic_visualizations
 [h1c-d]: nb:harp2_basic_visualizations.ipynb
