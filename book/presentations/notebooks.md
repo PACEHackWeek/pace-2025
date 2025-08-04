@@ -30,8 +30,8 @@ You can find additional resources that will help you analyze PACE data on the [O
 | [*SPEXone Aerosols at Level-2*][sa2-n]                      |                   | [{{ d1 }}][sa2-d] | {{ v0 }}          |
 | *Environments for Reusable Projects*                        | {{ l0 }}          |                   | {{ v0 }}          |
 | [Machine Learning Cloud Mask][mlc-n]                        |                   | [{{ d1 }}][mlc-d] |                   |
-| [OCI Land Products][olp-n]                                  |                   | {{ d0 }}          |                   |
-| [Projection and GeoTIFFs from Level-2][rio-n]               |                   | {{ d0 }}          | [{{ v1 }}][rio-v] |
+| [OCI Land Products][olp-n]                                  |                   | [{{ d1 }}][olp-d] |                   |
+| [Projection and GeoTIFFs from Level-2][rio-n]               |                   | [{{ d1 }}][rio-d] | [{{ v1 }}][rio-v] |
 | [OCI NO<sub>2</sub> Product Preview][no2-n]                 |                   | [{{ d1 }}][no2-d] |                   |
 | Phytoplankton Pigments (GPig) Preview                       |                   | {{ d0 }}          |                   |
 | Running GIOP wtih OCSSW                                     |                   | {{ d0 }}          |                   |
@@ -82,8 +82,10 @@ You can find additional resources that will help you analyze PACE data on the [O
 [mlc-d]: nb:ml_cloud_mask.ipynb
 
 [olp-n]: notebooks/oci_terrestrial_data
+[olp-d]: nb:oci_terrestrial_data.ipynb
 
 [rio-n]: notebooks/oci_project_and_format
+[rio-d]: nb:oci_project_and_format.ipynb
 [rio-v]: https://www.youtube.com/watch?v=hOu8rPd_x6I&t=970s
 
 [no2-n]: notebooks/oci_no2
