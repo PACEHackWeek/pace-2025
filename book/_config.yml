@@ -33,6 +33,7 @@ parse:
     http: null
     mailto: null
     nb: /pace-2025/_sources/presentations/notebooks/{{path}}
+  myst_links_external_new_tab: true
 execute:
   execute_notebooks: off
 latex:
