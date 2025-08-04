@@ -18,7 +18,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 | [**Earthaccess & Earthdata Cloud**][eec-n]                  | [{{ l1 }}][eec-l] | [{{ d1 }}][eec-d] | {{ v0 }}          |
 | [**Visualizing Satellite Data**][vsd-n]                     | [{{ d1 }}][vsd-l] | [{{ d1 }}][vsd-d] | {{ v0 }}          |
 | **Collaborative Coding, for Science!**                      | [{{ l1 }}][ccs-l] | [{{ d1 }}][ccs-d] | {{ v0 }}          |
-| [*Matchups of in-situ Data With Satellite Data*][mup-n]     | {{ l0 }}          | [{{ d1 }}][mup-d] | {{ v0 }}          |
+| [*Matchups of in-situ Data With Satellite Data*][mup-n]     | [{{ l1 }}][mup-l] | [{{ d1 }}][mup-d] | {{ v0 }}          |
 | [*Periodogram Analysis of Ocean Color Data*][lsp-n]         |                   | [{{ d1 }}][lsp-d] | {{ v0 }}          |
 | [**OCSSW Processing Tools**][opt-n]                         |                   | [{{ d1 }}][opt-d] | {{ v0 }}          |
 | [**Orientation to Level-2 Generator**][l2g-n]               |                   | [{{ d1 }}][l2g-d] | {{ v0 }}          |
@@ -57,6 +57,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 [ccs-d]: nb:blue-marble.ipynb
 
 [mup-n]: notebooks/satellite_insitu_matchups
+[mup-l]: https://docs.google.com/presentation/d/1IQlJtid0CGk2Nd-NGmKTCOCO9a9m4EQs/present
 [mup-d]: nb:satellite_insitu_matchups.ipynb
 
 [lsp-n]: notebooks/modis_lombscargle_periodogram
