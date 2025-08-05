@@ -69,7 +69,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 [l2g-n]: notebooks/oci_ocssw_l2gen
 [l2g-d]: nb:oci_ocssw_l2gen.ipynb
 
-[mlr-l]: https://docs.google.com/presentation/d/1wUHsZke7bQ1oW5nAaZKVTqNI8H5sP_Ar/present
+[mlr-l]: https://docs.google.com/presentation/d/1Hm_OlUo_44lwndCXrmztvuTKXybud0F8/present
 [mlr-n]: notebooks/rayleigh_correction
 [mlr-d]: nb:rayleigh_correction.ipynb
 
