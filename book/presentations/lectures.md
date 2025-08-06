@@ -13,12 +13,11 @@ The slides and recordings will be linked from this page as they become available
 
 [jw-d]: https://drive.usercontent.google.com/download?id=12nEmxwSO8jhuOqJ6YS20OaaaFVI3nyM3&export=download&authuser=0
 [kb-d]: https://drive.usercontent.google.com/download?id=1Ap3rt5szdbW4jU41YY8UurS5QAQjjgCA&export=download&authuser=0
-<!--
-[kb-x]:
-[bm-x]:
-[lr-x]:
-[fh-x]:
+[bm-d]: https://drive.usercontent.google.com/download?id=1RtSM3LfBWAHfSjuzoZK0nxiT79aXUiFa&export=download&authuser=0
+[lr-d]: https://drive.usercontent.google.com/download?id=1tz2g_2e58encVROgp2HqulUrm236PGcq&export=download&authuser=0
+[fh-x]: https://drive.usercontent.google.com/download?id=1p5NtJsdJuqDzknhEnY_6ggsbZUPpjEgY&export=download&authuser=0
 
+<!--
 [jw-v]:
 [kb-v]:
 [bm-v]:
