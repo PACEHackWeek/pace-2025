@@ -7,15 +7,15 @@ The slides and recordings will be linked from this page as they become available
 | :---- | :----: | :-------: |
 | PACE Mission Overview                                                                   | [{{ d1 }}][jw-d] | {{ v0 }} |
 | Biodiversity from PACE                                                                  | [{{ d1 }}][kb-d] | {{ v0 }} |
-| When will a cloud start raining? PACE polarimetric cloud products may have the answer   | {{ d0 }} | {{ v0 }} |
-| Will PACE aerosol products answer the questions surrounding aerosols in climate change? | {{ d0 }} | {{ v0 }} |
-| PACE Terrestrial Products&mdash;a New View of Ecosystem Traits, Phenology, & Function   | {{ d0 }} | {{ v0 }} |
+| When will a cloud start raining? PACE polarimetric cloud products may have the answer   | [{{ d1 }}][bm-d] | {{ v0 }} |
+| Will PACE aerosol products answer the questions surrounding aerosols in climate change? | [{{ d1 }}][lr-d] | {{ v0 }} |
+| PACE Terrestrial Products&mdash;a New View of Ecosystem Traits, Phenology, & Function   | [{{ d1 }}][fh-d] | {{ v0 }} |
 
 [jw-d]: https://drive.usercontent.google.com/download?id=12nEmxwSO8jhuOqJ6YS20OaaaFVI3nyM3&export=download&authuser=0
 [kb-d]: https://drive.usercontent.google.com/download?id=1Ap3rt5szdbW4jU41YY8UurS5QAQjjgCA&export=download&authuser=0
 [bm-d]: https://drive.usercontent.google.com/download?id=1RtSM3LfBWAHfSjuzoZK0nxiT79aXUiFa&export=download&authuser=0
 [lr-d]: https://drive.usercontent.google.com/download?id=1tz2g_2e58encVROgp2HqulUrm236PGcq&export=download&authuser=0
-[fh-x]: https://drive.usercontent.google.com/download?id=1p5NtJsdJuqDzknhEnY_6ggsbZUPpjEgY&export=download&authuser=0
+[fh-d]: https://drive.usercontent.google.com/download?id=1p5NtJsdJuqDzknhEnY_6ggsbZUPpjEgY&export=download&authuser=0
 
 <!--
 [jw-v]:
