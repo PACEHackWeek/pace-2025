@@ -88,7 +88,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 [sa2-n]: notebooks/spexone_l2_aerosol_product
 [sa2-d]: nb:spexone_l2_aerosol_product.ipynb
 
-[env-d]: https://drive.usercontent.google.com/download?id=1Pb0A1K-ctSfBNMd-JYwJYOxbOQt23vPC&export=download&authuser=0
+[env-l]: https://drive.usercontent.google.com/download?id=1Pb0A1K-ctSfBNMd-JYwJYOxbOQt23vPC&export=download&authuser=0
 
 [mlc-n]: notebooks/ml_cloud_mask
 [mlc-d]: nb:ml_cloud_mask.ipynb
