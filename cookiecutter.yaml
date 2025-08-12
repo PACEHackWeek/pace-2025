@@ -16,14 +16,14 @@ banner:
     title: Event Jupyter Book
     new_window: false
     style: btn-primary
- - url: https://docs.google.com/forms/d/e/1FAIpQLSfckSK2sAYYsC3oC5ruFnelYNcOD-yd6yQOBICRNt_p-3lx3w/viewform
-   title: Feedback Survey
-   new_window: true
-   style: btn-success
- - url: https://docs.google.com/forms/d/e/1FAIpQLSeyT-CG-1SfGDpAyeV9cKSkjj-7__0J1qwmZ4cPBXRyWJCJZQ/viewform
-   title: Demographic Survey
-   new_window: true
-   style: btn-warning
+  - url: https://docs.google.com/forms/d/e/1FAIpQLSfckSK2sAYYsC3oC5ruFnelYNcOD-yd6yQOBICRNt_p-3lx3w/viewform
+    title: Feedback Survey
+    new_window: true
+    style: btn-success
+  - url: https://docs.google.com/forms/d/e/1FAIpQLSeyT-CG-1SfGDpAyeV9cKSkjj-7__0J1qwmZ4cPBXRyWJCJZQ/viewform
+    title: Demographic Survey
+    new_window: true
+    style: btn-warning
   image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2025-08-03T08:30:00-04:00"
