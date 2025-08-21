@@ -33,7 +33,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 | [OCI Land Products][olp-n]                                  |                   | [{{ d1 }}][olp-d] |                   |
 | [Projection and GeoTIFFs from Level-2][rio-n]               |                   | [{{ d1 }}][rio-d] | [{{ v1 }}][rio-v] |
 | [OCI NO<sub>2</sub> Product Preview][no2-n]                 |                   | [{{ d1 }}][no2-d] |                   |
-| Phytoplankton Pigments (GPig) Preview                       |                   | {{ d0 }}          |                   |
+| [Phytoplankton Pigments (GPig) Preview][pig-n]              |                   | [{{ d1 }}][pig-d] |                   |
 | [Running GIOP wtih OCSSW][iop-n]                            |                   | [{{ d1 }}][iop-d] |                   |
 | [GISS Polarimetric Cloud Product][gpc-n]                    |                   | [{{ d1 }}][gpc-d] |                   |
 
@@ -102,6 +102,9 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 [no2-n]: notebooks/oci_no2
 [no2-d]: nb:oci_no2.ipynb
+
+[pig-n]: notebooks/oci_gpig
+[pig-d]: nb:oci_gpig.ipynb
 
 [iop-n]: notebooks/oci_ocssw_giop
 [iop-d]: nb:oci_ocssw_giop.ipynb
