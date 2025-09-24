@@ -28,7 +28,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 | [*SPEXone at Level-1C*][s1c-n]                              |                   | [{{ d1 }}][s1c-d] | {{ v0 }}          |
 | [*HARP2 Aerosols at Level-2*][ha2-n]                        |                   | [{{ d1 }}][ha2-d] | {{ v0 }}          |
 | [*SPEXone Aerosols at Level-2*][sa2-n]                      |                   | [{{ d1 }}][sa2-d] | {{ v0 }}          |
-| *Environments for Reusable Projects*                        | [{{ d1 }}][env-l] |                   | {{ v0 }}          |
+| **Environments for Reusable Projects**                      | [{{ l1 }}][env-l] | [{{ d1 }}][env-d] | {{ v0 }}          |
 | [Machine Learning Cloud Mask][mlc-n]                        |                   | [{{ d1 }}][mlc-d] |                   |
 | [OCI Land Products][olp-n]                                  |                   | [{{ d1 }}][olp-d] |                   |
 | [Projection and GeoTIFFs from Level-2][rio-n]               |                   | [{{ d1 }}][rio-d] | [{{ v1 }}][rio-v] |
@@ -88,7 +88,8 @@ You can find additional resources that will help you analyze PACE data on the [O
 [sa2-n]: notebooks/spexone_l2_aerosol_product
 [sa2-d]: nb:spexone_l2_aerosol_product.ipynb
 
-[env-l]: https://drive.usercontent.google.com/download?id=1Pb0A1K-ctSfBNMd-JYwJYOxbOQt23vPC&export=download&authuser=0
+[env-l]: https://docs.google.com/presentation/d/1Pb0A1K-ctSfBNMd-JYwJYOxbOQt23vPC/present?slide=id.p1
+[env-d]: https://drive.usercontent.google.com/download?id=1Pb0A1K-ctSfBNMd-JYwJYOxbOQt23vPC&export=download&authuser=0
 
 [mlc-n]: notebooks/ml_cloud_mask
 [mlc-d]: nb:ml_cloud_mask.ipynb
