@@ -9,9 +9,9 @@
 
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
-| Welcome, Introductions, and Housekeeping | [{{ l1 }}][hi-l] | {{ v0 }} |
+| Welcome, Introductions, and Housekeeping | [{{ l1 }}][hi-l] |                  |
 | Orientation to CryoCloud                 | [{{ l1 }}][cc-l] | [{{ v1 }}][cc-v] |
-| Group Projects                           | [{{ l1 }}][gp-l] | {{ v0 }} |
+| Group Projects                           | [{{ l1 }}][gp-l] |                  |
 
 ```{admonition} Server Options
 :class: warning
