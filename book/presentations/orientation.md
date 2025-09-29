@@ -3,8 +3,8 @@
 ```{admonition} Let's Get Started
 :class: note
 - View slides {{ l1 }}
-- Download content {{ d1 }}
-- Recording available {{ v1 }}
+- Download nodebooks {{ d1 }}
+- Watch recording {{ v1 }}
 ```
 
 | Title | Slides | Recording |
@@ -16,8 +16,8 @@
 ```{admonition} Server Options
 :class: warning
 
-When you get to "Server Options" page after logging in at {{ jupyterhub_url }},
-scroll down to "Bring your own image" option and enter `ghcr.io/nasa/oceandata-notebooks:latest` into the "Custom image" field.
+When you get to the "Server Options" page after logging in at {{ jupyterhub_url }},
+scroll down to the "Bring your own image" option and enter `ghcr.io/nasa/oceandata-notebooks:latest` into the "Custom image" field.
 
 ![server_options](../img/server_options.png)
 
