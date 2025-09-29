@@ -57,7 +57,7 @@ You can find additional resources that will help you analyze PACE data on the [O
 
 [ccs-l]: https://docs.google.com/presentation/d/1e5W_1MJsYemscRiRemVsGmc9KhAMD3supzhzDAarxLI/present
 [ccs-d]: nb:blue-marble.ipynb
-[ccs-v1]: https://youtu.be/04NpP_HVG_g
+[ccs-v1]: https://youtu.be/04NpP_HVG_g?list=PL2JK_uZ15iZDwPzhfURawiS7EpfYfFNQM
 [ccs-v2]: https://youtu.be/ufSXcSlmlf4?list=PL2JK_uZ15iZDwPzhfURawiS7EpfYfFNQM
 
 [mup-n]: notebooks/satellite_insitu_matchups
