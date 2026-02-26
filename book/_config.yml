@@ -55,7 +55,8 @@ sphinx:
         - as_version: 4
         - false # setting to the default `true` seems to break math, `false` uses MyST instead of Commmonmark
 html:
-  # announcement: "Content under development, check back for updates!"
+  announcement: |
+    Archive of the 2025 event; visit our <a href="https://nasa.github.io/oceandata-notebooks/" style="color:white;">Help Hub</a> for current content.
   use_edit_page_button: true
   use_issues_button: true
   use_repository_button: true
