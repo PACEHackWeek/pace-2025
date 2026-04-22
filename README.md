@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19699586.svg)](https://doi.org/10.5281/zenodo.19699586)
+
 # PACE Data Hackweek 2025
 
 This the conent of the landing page and JupyterBook for the PACE Data Hackweek 2025.
